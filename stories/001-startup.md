@@ -1,38 +1,49 @@
 # Start up!
 
-I use my mobile every day, I call my dad and the mother and some friends
-and some time order a pizza and send emails to the school, which is was a
-gift my dad gave me once I turned into 13. It has a small screen. I saw a
-laptop in an electrical shop on a big shopping mall! And get intersted to
-buy a laptop! The one which looks more attractive, easier to use, better
-display with long lasting battery! I want to buy it! But I don't have
-enough money well I use my father's credit card or my mother's credit card!
-Or just wait a few more months and save some money to buy it. But the story
-does not end here!
+I use my mobile phone every day, I call and receive text with the family and
+friends, some time order a pizza or ask taxi, read my emails in the elevator,
+music while commuting. city bus and train which the information is also
+available in maps but I buy tickets in there! I have card and it does not need
+battery to work which could be used for payment. A parking app which perhaps I
+could also use SMS version. And a car app which I can turn on and off heater
+and send location to the car. And a few messengers which the friends and
+families required me to install. An application or two which I am asked to
+install as a replcament of email!, I was more happy with the email though since
+I work with many others through email! A few other apps which I just removed it
+upon writing this! It was not used for a year or so! How many airline apps do
+we need?! I have a video player which is for kids, that is really useful for my
+son which I can control him which content they receive. And some built in
+stuff like contact, sms, reminder, maps, notes, files which I use a lot. And a
+remote backup which let me feel I can retrive the information if the phone is
+broken. Less than 10 apps which I would need it beside the built in apps.
 
-After a while, I just get noticed that the one which looks fancy or and
-more featured is not always useful for me. I want to install some games on
-it which it does not work, it does not have certain graphic processor. I
-was recommended by a friend to try the game which requires the processor.
-And sometime I think I would like to have a better CPU! But the still we
-have not paid all the debt for the first purchase. Maybe I need a desktop.
+And some apps which should be perhaps part of the phone functionality like a
+document scanner and an 2FA authenticator app. There is a printer app which
+perhaps should not be installed, why a printer brand should have an app on my
+phone? Perhasp all the wallet and cash functionalities should be built into the
+phone so I do not need to trust to many providers which I do not know who they
+are and how they handle my private data. Perhaps I should remove my cards there
+since I have my card in my wallet together with some cash. Or maybe use it as a
+backup if my wallet is stolen. Two applications to authorize with banks and
+government services which could perhaps could be one and would be easier that
+they all accept a common protocol for authentication connected to my phone
+secure wallet then I could remove those two as well. And Some apps which are
+more a payment app which perhaps they could link to my card or such or totally
+replaced by blockchain. Moving payment, tickets, authentication stuff to a
+secure standard chip would remove a few more apps from my phone.
 
-There are more issues, I have to pay for everything I need while I can some
-time build it for myself. But I can not change the software running on my
-laptop. Sometime I can but most of the time not! Many tools that I use just do
-not support my laptop.
+Except games, I see apps sort of essential extension of phone functionality
+which is not that general which the phone company has not built that into the
+phone. Like the ticket app which I use for parking and city train and bus.
+Anyway apps just handle a communication which used to be over phone. Now the
+person on the other side of the line is replaced with app which is good they
+can spend time on something else. I don't have problem to call the Taxi company
+and ask the person there though if they would like it so. I do not buy from
+many restaurants, I just order pizza from a specific shop, that I can pay with
+crypto if they want to and call and ask them to put it in their system if they
+would like that also.
 
-I want to buy the desktop machine with free software installed on. I can run
-the same software on a server machine. The server is located in my city which a
-friend of mine has bought and rents it to us. Here receives the rent using
-Bitcoin. So I can run my software on their machine while mine is off. They have
-recently bought one more machine since there are more interested to their
-machines.
-
-So now I have laptop and a mobile and a desktop and a server which is rented
-from my friend. With the mobile and the laptop I just handle my daily tasks.
-There are many applications available for sending email, I just use the one
-which was installed on the device, that just works for me. I have many options
-though. Some of them are paid but cheap. So what I want to do is to build my
-own system.
-
+More or less the same thing with other kind of screens, I buy a from a company
+and solve the problem with less time put in and less issue and errors
+experienced. But the story is not like this when I want and can build
+something.
