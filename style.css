@@ -27,7 +27,7 @@ h1 {
 }
 
 pre {
-    /* overflow: auto; */
+    overflow: auto;
     font-size: 2rem;
 }
 
