@@ -28,7 +28,7 @@ h1 {
 
 pre {
     overflow: auto;
-    font-size: 2rem;
+    font-size: 0.7rem;
 }
 
 @media only screen and (min-width: 425px) {
