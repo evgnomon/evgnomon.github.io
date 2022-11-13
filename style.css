@@ -1,3 +1,6 @@
+:root {
+    --size-container-size: 768px;
+}
 @font-face {
     font-family: "Fira Sans";
     font-style: normal;
@@ -17,6 +20,7 @@ body {
 .container {
     padding: 0 1rem;
     margin: 0;
+    box-sizing: border-box;
 }
 h1 {
     font-size: 2rem;
@@ -35,7 +39,7 @@ pre {
     html {
     }
     .container {
-        width: 768px;
+        width: var(--size-container-size);
         margin: 0 auto;
     }
 }
