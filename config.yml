@@ -1,0 +1,26 @@
+baseURL: "https://evgnomon.org/"
+languageCode: "en-us"
+title: "Evgnomon"
+theme: "hugo-book"
+
+# Book configuration
+disablePathToLower: true
+enableGitInfo: true
+params:
+  BookTheme: "light"
+
+  BookToC: true
+  BookSection: docs
+
+  BookRepo: https://github.com/evgnomon/evgnomon.github.io
+  
+  BookDateFormat: "January 2, 2006"
+
+  BookSearch: true
+
+  BookComments: false
+
+  BookPortableLinks: false
+
+  BookServiceWorker: false
+  BookTranslatedOnly: false
