@@ -20,3 +20,5 @@ Do you agree?
 I am called "Hamed" by my parents and the family and it is also my passport name. "evgnomon" is ευγνώμων in greek and pronounced ev̱gnó̱mo̱n means "grateful" which is also what "Hamed" means in persian (فارسی).
 
 I write for evgnomon here! Makes sense?
+
+I would like to hear you, so you can email your reflection to "hg -you know the sign- evgnomon.org". I hope we become a friend. That simple.
