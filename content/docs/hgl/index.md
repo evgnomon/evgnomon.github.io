@@ -17,26 +17,31 @@ hg@evgnomon.org
 
 ### PREAMBLE
 
-We believe there's no need to modify this license for those who wish to use or enhance our work. Therefore, we've established specific guidelines for distributing any derivative works based on our original work. If you distribute your improvements or derivative works, they must be under the same terms that you received our original work.
+We believe there's no need to modify this license for those who wish to use or enhance our work or a derivative work based on our work. Therefore, we've established specific guidelines for distributing any derivative works based on our original work. If you distribute your improvements or derivative works, they must be under the same terms that you received our original work.
 
-This license allows you to use our work in a closed-source project, as long as you don't distribute it. We encourage the incorporation of useful contributions back into our work to avoid reliance on outdated material. You're welcome to use our work for closed-source projects under this license and also to contribute back to our original work under the same terms.
+This license allows you to use our work in a closed-source project, as long as you don't distribute it.
+You're welcome to use our work for closed-source projects under this license and also your are welcome to contribute back to our original work under the same terms.
+We encourage the incorporation of useful contributions back into our work to avoid reliance on your outdated material.
 
-While encouraging the use of our work in a non-distributed, closed-source manner, we aim to protect against dominance by any single entity. By distributing our work, we maintain an advantage, allowing both us and our users to continually improve the work without needing to change the license. Our distribution model is designed to be more cost-effective than non-distribution, helping us keep pace with others. 
+While encouraging the use of our work in a non-distributed, closed-source manner, we aim to protect against dominance by any single entity.
+By distributing our work under the same license, we maintain an advantage, allowing both us and our users to continually improve the work.
+And our distribution model is designed to be more cost-effective than non-distribution. These two helping us keep being accelerated by finding more contributors without being devided. 
 
-Copyright holders reserve all rights to protect the work covered by this License.
+Copyright holders reserve all rights to protect the work and a derivative work covered by this License.
 ### DEFINITIONS
 - **THE COVENANT:** the zero term of this agreement
 - **PERSON:** individual or legal entity
 - **RESTRICT:** to control something by law
 - **WORK:** what is protectable under copyright law
+- **COVERED WORK:** work which is covered under this License
+- **DERIVATIVE WORK:** work which is "derivative work" under copyright law based on the covered work
 - **MODIFY:** add to or delete from the work
 - **CODE:** a work represented by a particular arrangement or sequence of numbers, symbols, letters, words, on memory which is protectable under copyright
 - **SOURCE CODE:** a kind of code which is preferred for making modifications
-- **RECEIVE:** the situation that our work is transferred to a person in copy for use
-- **DEPENDENT:** owning more than fifty percent (50%) of the outstanding shares or beneficial ownership of the work performed by a person
-- **DISTRIBUTE:** the situation that an independent person receives our work for use
-- **COVERED WORK:** work which is covered under this License
-- **DERIVATIVE WORK:** work which is "derivative work" under copyright law based on the covered work
+- **RECEIVE:** the situation that our work (or a derivate work) is transferred to a person in copy for use
+- **DEPENDENT:** two persons are both dependent if one owning 50% (or more) shares (or beneficial ownership) over the other person
+- **INDEPENDENT** two persons are both independent if non of those is anyway dependent
+- **DISTRIBUTE:** the situation that an independent person receives our work (or a derivative work) for use
 
 #### 0. Copying, modification and distribution
 
