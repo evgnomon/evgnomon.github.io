@@ -12,46 +12,46 @@ weight: 10
 Copyright (C) 2022 evgnomon.org by Hamed Ghasemzadeh, ALL RIGHTS RESERVED  
 
 hg@evgnomon.org
+Lund, Sweden
 
 **IT IS NOT PROHIBITED TO COPY AND DISTRIBUTE VERBATIM COPIES OF THIS LICENSE.**
 
 ### PREAMBLE
 
-We believe there's no need to modify this license for those who wish to use or enhance our work or a derivative work based on our work. Therefore, we've established specific guidelines for distributing any derivative works based on our original work. If you distribute your improvements or derivative works, they must be under the same terms that you received our original work.
+We believe there's no need to modify this license for those who wish to use and or enhance our work or a derivative work based on our work. Therefore, we've established specific guidelines for distributing any derivative works based on our original work. If you distribute your improvements or derivative works, they must be under the same terms that you received our original work.
 
-This license allows you to use our work in a closed-source project, as long as you don't distribute it.
-You're welcome to use our work for closed-source projects under this license and also your are welcome to contribute back to our original work under the same terms.
-We encourage the incorporation of useful contributions back into our work to avoid reliance on your outdated material.
+We also encourage you for contributions back into our work to avoid reliance on your outdated material. As we think there would be only one main branch of code in long term which we all branch out from.
 
-While encouraging the use of our work in a non-distributed, closed-source manner, we aim to protect against dominance by any single entity.
-By distributing our work under the same license, we maintain an advantage, allowing both us and our users to continually improve the work.
-And our distribution model is designed to be more cost-effective than non-distribution. These two helping us keep being accelerated by finding more contributors without being devided. 
+This license aslo encourages you to use our work in closed-source projects or software as a service or any other mechanism which is more effective to protect your work as long as you don't distribute our work (or derivative work based on our work). Such works has to be only licensed under terms and conditions of this license for distributing.
+
+By protecting distribution of our work under the same license, we maintain two advantages along the way, allowing both us and our users to continually improve the work by making more derivative works in short term to maximize utility of our work. And our distribution model is designed to be more cost-effective in long term than non-distribution to establish unique identity for our work. This license protects us as a single body against being devided when time arrives putting this two together which let us overcome competitors under the same terms as we started with.
 
 Copyright holders reserve all rights to protect the work and a derivative work covered by this License.
+
 ### DEFINITIONS
 - **THE COVENANT:** the zero term of this agreement
-- **PERSON:** individual or legal entity
-- **RESTRICT:** to control something by law
+- **PERSON:** an individual or a legal entity
+- **RESTRICT:** one person that is allowed to control something by law including copyright law
 - **WORK:** what is protectable under copyright law
 - **COVERED WORK:** work which is covered under this License
 - **DERIVATIVE WORK:** work which is "derivative work" under copyright law based on the covered work
-- **MODIFY:** add to or delete from the work
-- **CODE:** a work represented by a particular arrangement or sequence of numbers, symbols, letters, words, on memory which is protectable under copyright
+- **MODIFY:** add to and/or delete from the work
+- **CODE:** a work represented by a particular arrangement or sequence of numbers, symbols, letters, words, on a memory which is protectable under copyright
 - **SOURCE CODE:** a kind of code which is preferred for making modifications
-- **RECEIVE:** the situation that our work (or a derivate work) is transferred to a person in copy for use
-- **DEPENDENT:** two persons are both dependent if one owning 50% (or more) shares (or beneficial ownership) over the other person
-- **INDEPENDENT** two persons are both independent if non of those is anyway dependent
-- **DISTRIBUTE:** the situation that an independent person receives our work (or a derivative work) for use
+- **RECEIVE:** the situation that our work (or a derivate work) gets transferred to a person in copy for use
+- **DEPENDENT:** two persons are both dependent if one can restrict the other to use the covered work or a derivative work
+- **INDEPENDENT** two persons are both independent if non of those is anyway dependent to the other person
+- **DISTRIBUTE:** the situation that an independent person receives our work or a derivative work based on our work
 
 #### 0. Copying, modification and distribution
 
-The covered work and derivative work based on the covered work is not restricted only if the following four conditions are all separately met:
+The covered work and derivative work based on the covered work is not restricted only if the following four conditions are all met:
 
 1. The source code of the distributed derivative work and thereby the distributed covered work is also distributed for all receivers of the distributed work. And
 
 2. A distributed derivative work based on the covered work is also licensed under this License without further term or condition or enforcing compliance by third parties including the state. And
 
-3. Distribution of the covered work and a derivative work must keep the copyright notice and reference to this License. And
+3. Distribution of the covered work and a derivative work must keep the copyright notice and a verbatim copy of this License. And
 
 4. The following disclaimer appropriately published in the documentation and/or other materials provided with the distribution.
 
