@@ -18,6 +18,4 @@ The return of the next kid is on the whole system while it has to return to the 
 
 No need to put numbers belong to the last fifty years to show this, those numbers are the output of this simple feedback loop.
 
-Subscription is always about acceleration. Depending to the subscription type it gets accelerated either by subscription or unsubscription. But could it be one thing that accelerates by subscription and accelerates but unsubscription too to the other direction? Nothing can be be like this as forces will build up in different directions until fall it apart due to debt. Except for a natural singularity which is debtless since the beginning.
-
-So debt stabilises a system by putting opposite forces in different identities. At the same time puts the system on the verge of extinction in long term in benefit of one outsider kid which owns everything without need to pay for it! And others will need it to survive the extinction. So this only changes when that debtless kid gets born on an extinct planet.
+Subscription is always about acceleration. Depending to the subscription type it gets accelerated either by subscription or unsubscription. But could it be one thing that accelerates in both directions? Nothing can be like this as forces will build up in opposite directions until fall it apart due to debt. Except for a natural singularity which is debtless since the beginning. So debt accelerates the system toward extinction at the same time paves the way for natural singularity. There is only 90 minutes left.
