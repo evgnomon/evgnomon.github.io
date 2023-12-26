@@ -18,13 +18,13 @@ Lund, Sweden
 
 ### PREAMBLE
 
-We believe there's no need to modify this license for those who wish to use and or enhance our work or a derivative work based on our work. Therefore, we've established specific guidelines for distributing any derivative works based on our original work. If you distribute your improvements or derivative works, they must be under the same terms that you received our original work.
+We maintain that there's no necessity to alter this license for those who intend to utilize, augment, or create derivative works from our original work. Consequently, we've set forth specific guidelines for the distribution of any such derivative works. Any distributed improvements or derivatives must adhere to the same licensing terms as our original work.
 
-We also encourage you for contributions back into our work to avoid reliance on your outdated material. As we think there would be only one main branch of code in long term which we all branch out from.
+We encourage contributions to our original work, helping to prevent dependency on outdated versions. We anticipate a single primary code branch, from which all derivatives will emerge.
 
-This license aslo encourages you to use our work in closed-source projects or software as a service or any other mechanism which is more effective to protect your work as long as you don't distribute our work (or derivative work based on our work). Such works has to be only licensed under terms and conditions of this license for distributing.
+Our license permits the use of our work in closed-source projects, software as a service, or other methods that effectively safeguard your work, provided you do not distribute our work or its derivatives. Distribution must be exclusively licensed under the conditions of this license.
 
-By protecting distribution of our work under the same license, we maintain two advantages along the way, allowing both us and our users to continually improve the work by making more derivative works in short term to maximize utility of our work. And our distribution model is designed to be more cost-effective in long term than non-distribution to establish unique identity for our work. This license protects us as a single body against being devided when time arrives putting this two together which let us overcome competitors under the same terms as we started with.
+By ensuring our work is distributed under this uniform license, we gain two key benefits: it allows for continuous enhancement through derivative works, maximizing the utility of our original work in the short term, and our distribution approach proves more cost-efficient in the long run, establishing a distinct identity for our work. This license unifies us against fragmentation, enabling us to outperform competitors while adhering to our original terms.
 
 Copyright holders reserve all rights to protect the work and a derivative work covered by this License.
 
