@@ -31,7 +31,7 @@ Copyright holders reserve all rights to protect the work and a derivative work c
 ### DEFINITIONS
 - **THE COVENANT:** the zero term of this agreement
 - **PERSON:** an individual or a legal entity
-- **WORK:** what which is protectable under copyright law
+- **WORK:** what is protectable under copyright law
 - **DERIVATIVE WORK:** work which is "derivative work" under copyright based on another work
 - **COVERED WORK:** work which is useful under this license also a derivative work based on a covered work
 - **RESTRICT:** one person that is allowed by copyright law to control the use of the covered work
