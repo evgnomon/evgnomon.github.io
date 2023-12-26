@@ -34,7 +34,7 @@ Copyright holders reserve all rights to protect the work and a derivative work c
 - **WORK:** what is protectable under copyright law
 - **DERIVATIVE WORK:** work which is "derivative work" under copyright based on another work
 - **RESTRICT:** one person that is allowed by copyright law to control the use of work
-- **COVERED WORK:** A work which is restricted under terms of this license also a derivative work based on a covered work
+- **COVERED WORK:** A work which is restricted under terms and conditions of this license also a derivative work based on a covered work
 - **MODIFY:** add to and/or delete from the work
 - **CODE:** a work represented by a particular arrangement or sequence of numbers, symbols, letters, words, on a memory which is protectable under copyright
 - **SOURCE CODE:** a kind of code which is preferred for making modifications
