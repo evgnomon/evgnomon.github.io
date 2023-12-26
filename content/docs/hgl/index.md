@@ -39,21 +39,19 @@ Copyright holders reserve all rights to protect the work and a derivative work c
 - **CODE:** a work represented by a particular arrangement or sequence of numbers, symbols, letters, words, on a memory which is protectable under copyright
 - **SOURCE CODE:** a kind of code which is preferred for making modifications
 - **RECEIVE:** the situation that a work gets transferred to a person in copy for use
-- **DEPENDENT:** two persons are both dependent if one can restrict the other to use a work
-- **INDEPENDENT** two persons are both independent if non of those is anyway dependent to the other person
+- **DEPENDENT:** both persons are dependent if one restricts the other using a covered work
+- **INDEPENDENT** two persons are both independent if non of those is dependent to the other
 - **DISTRIBUTE:** the situation that an independent person receives work 
 
 #### 0. Copying, modification and distribution
 
-Copying, modification and distribution of the covered work is not restricted only if the following two conditions are both met:
-
-1. The source code of the distributed derivative work based on the covered work is also distributed for all receivers under this license without further restriction, term and condition or enforcing compliance by third parties including the state. And
-
-2. Copying, modification and distribution of the covered work must keep the copyright notice and a verbatim copy of this license. The following disclaimers appropriately published in the documentation and/or other materials provided with the distribution.
+Copying, modification and distribution of the covered work is unrestricted if the source code of the distributed derivative work based on the covered work is also distributed for all receivers and under this license without further restriction, term and condition or enforcing compliance by third parties including the state. Copying, modification and distribution of the covered work must keep the copyright notice and a verbatim copy of this license.
 
 #### 1. Aggregation of works
 
 In order to have the covered work useful in a system with works under different licenses, a distribution can exceptionally aggregate the covered work on the same medium without having the whole covered under this license.
+
+The following disclaimers must appropriately published in the documentation and/or other materials provided with a distribution:
 
 **EXCEPT WHEN OTHERWISE STATED IN WRITING, THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE COVERED WORK "AS IS" WITHOUT IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, MERCHANTABILITY AND TITLE, AND ANY OTHER KIND OF EXPRESS OR IMPLIED WARRANTIES.**
 
