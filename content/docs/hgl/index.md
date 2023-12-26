@@ -38,7 +38,7 @@ Copyright holders reserve all rights to protect the work and a derivative work c
 - **MODIFY:** add to and/or delete from the work
 - **CODE:** a work represented by a particular arrangement or sequence of numbers, symbols, letters, words, on a memory which is protectable under copyright
 - **SOURCE CODE:** a kind of code which is preferred for making modifications
-- **RECEIVE:** the situation that the covered work gets transferred to a person in copy for use
+- **RECEIVE:** the situation that a work gets transferred to a person in copy for use
 - **DEPENDENT:** two persons are both dependent if one can restrict the other to use a work
 - **INDEPENDENT** two persons are both independent if non of those is anyway dependent to the other person
 - **DISTRIBUTE:** the situation that an independent person receives work 
@@ -47,9 +47,9 @@ Copyright holders reserve all rights to protect the work and a derivative work c
 
 Copying, modification and distribution of the covered work is not restricted only if the following two conditions are both met:
 
-1. The source code of the distributed derivative work based on the covered work is also distributed under this license for all receivers without further restriction, term and condition or enforcing compliance by third parties including the state. And
+1. The source code of the distributed derivative work based on the covered work is also distributed for all receivers under this license without further restriction, term and condition or enforcing compliance by third parties including the state. And
 
-2. Copying, modification and distribution of the covered work must keep the copyright notice and a verbatim copy of this license. The following disclaimer appropriately published in the documentation and/or other materials provided with the distribution.
+2. Copying, modification and distribution of the covered work must keep the copyright notice and a verbatim copy of this license. The following disclaimers appropriately published in the documentation and/or other materials provided with the distribution.
 
 #### 1. Aggregation of works
 
@@ -65,7 +65,7 @@ However, You may at your option offer support, warranty, indemnity, or other lia
 
 ### APPLICATION
 
-You apply this License on your work by keeping a verbatim copy of this License visible for receivers.
+You apply this License on your work by keeping a verbatim copy of this license visible for receivers.
 Programs can print the copyright notice in the terminal like this:
 
 ```plaintext
