@@ -33,37 +33,33 @@ Copyright holders reserve all rights to protect the work and a derivative work c
 - **PERSON:** an individual or a legal entity
 - **WORK:** what is protectable under copyright law
 - **DERIVATIVE WORK:** work which is "derivative work" under copyright based on another work
-- **COVERED WORK:** A work which is allowed under this license also a derivative work based on a covered work
-- **RESTRICT:** one person that is allowed by copyright law to control the use of the covered work
+- **RESTRICT:** one person that is allowed by copyright law to control the use of work
+- **COVERED WORK:** A work which is restricted under terms of this license also a derivative work based on a covered work
 - **MODIFY:** add to and/or delete from the work
 - **CODE:** a work represented by a particular arrangement or sequence of numbers, symbols, letters, words, on a memory which is protectable under copyright
 - **SOURCE CODE:** a kind of code which is preferred for making modifications
 - **RECEIVE:** the situation that the covered work gets transferred to a person in copy for use
-- **DEPENDENT:** two persons are both dependent if one can restrict the other to use the covered work
+- **DEPENDENT:** two persons are both dependent if one can restrict the other to use a work
 - **INDEPENDENT** two persons are both independent if non of those is anyway dependent to the other person
-- **DISTRIBUTE:** the situation that an independent person receives the covered work 
+- **DISTRIBUTE:** the situation that an independent person receives work 
 
 #### 0. Copying, modification and distribution
 
-The covered work is not restricted only if the following four conditions are all met:
+Copying, modification and distribution of the covered work is not restricted only if the following two conditions are both met:
 
-1. The source code of the distributed derivative work based on the covered work is also distributed under this license for all receivers. And
+1. The source code of the distributed derivative work based on the covered work is also distributed under this license for all receivers without further restriction, term and condition or enforcing compliance by third parties including the state. And
 
-2. The distributed covered work is also licensed under this License without further restriction, term and condition or enforcing compliance by third parties including the state. And
-
-3. Copying, modification and distribution of the covered work must keep the copyright notice and a verbatim copy of this License. And
-
-4. The following disclaimer appropriately published in the documentation and/or other materials provided with the distribution.
+2. Copying, modification and distribution of the covered work must keep the copyright notice and a verbatim copy of this license. The following disclaimer appropriately published in the documentation and/or other materials provided with the distribution.
 
 #### 1. Aggregation of works
 
-In order to have the covered work useful in a system with pieces under different licenses which are separately distributed consistent with the covenant, such a separately distributed work can exceptionally aggregate the covered work on the same medium without having the whole come into the scope of this License. The covered work can likewise aggregate a part which is separately distributed consistent with the covenant and under a different license without having the whole come into the scope of this license.
+In order to have the covered work useful in a system with works under different licenses, a distribution can exceptionally aggregate the covered work on the same medium without having the whole covered under this license.
 
 **EXCEPT WHEN OTHERWISE STATED IN WRITING, THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE COVERED WORK "AS IS" WITHOUT IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, MERCHANTABILITY AND TITLE, AND ANY OTHER KIND OF EXPRESS OR IMPLIED WARRANTIES.**
 
 **IN NO EVENT SHALL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, LOSS OF GOODWILL, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE COVERED WORK OR AS A RESULT OF OUR LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.**
 
-However, You may at your option offer support, warranty, indemnity, or other liability obligations and/or rights consistent with this License in exchange for a fee.
+However, You may at your option offer support, warranty, indemnity, or other liability obligations and/or rights consistent with this license in exchange for a fee.
 
 ## END OF TERMS AND CONDITIONS
 
