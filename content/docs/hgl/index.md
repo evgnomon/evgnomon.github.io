@@ -33,7 +33,7 @@ Copyright holders reserve all rights to protect the work and a derivative work c
 - **PERSON:** an individual or a legal entity
 - **WORK:** what which is protectable under copyright law
 - **DERIVATIVE WORK:** work which is "derivative work" under copyright based on another work
-- **COVERED WORK:** work which is covered under this license and or a derivative work based on a covered work
+- **COVERED WORK:** work which is under this license also a derivative work based on a covered work
 - **RESTRICT:** one person that is allowed by copyright law to control the covered work
 - **MODIFY:** add to and/or delete from the work
 - **CODE:** a work represented by a particular arrangement or sequence of numbers, symbols, letters, words, on a memory which is protectable under copyright
@@ -47,11 +47,11 @@ Copyright holders reserve all rights to protect the work and a derivative work c
 
 The covered work is not restricted only if the following four conditions are all met:
 
-1. The source code of the distributed covered work is also distributed for all receivers of the covered work. And
+1. The source code of the distributed derivative work based on the covered work is also distributed under this license for all receivers. And
 
-2. The covered work is also licensed under this License without further term or condition or enforcing compliance by third parties including the state. And
+2. The distributed covered work is also licensed under this License without further term or condition or enforcing compliance by third parties including the state. And
 
-3. Distribution of the covered work must keep the copyright notice and a verbatim copy of this License. And
+3. Copying, modification and distribution of the covered work must keep the copyright notice and a verbatim copy of this License. And
 
 4. The following disclaimer appropriately published in the documentation and/or other materials provided with the distribution.
 
