@@ -49,7 +49,7 @@ The covered work is not restricted only if the following four conditions are all
 
 1. The source code of the distributed derivative work based on the covered work is also distributed under this license for all receivers. And
 
-2. The distributed covered work is also licensed under this License without further restriction, enforcing compliance by third parties including the state. And
+2. The distributed covered work is also licensed under this License without further restriction, term and condition or enforcing compliance by third parties including the state. And
 
 3. Copying, modification and distribution of the covered work must keep the copyright notice and a verbatim copy of this License. And
 
