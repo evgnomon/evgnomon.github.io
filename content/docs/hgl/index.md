@@ -50,7 +50,7 @@ The Covered Work is hereby granted the freedom of copying and modification witho
 
 In instances where the Covered Work or its Derivative Work is integrated into a system comprising works governed by various licenses, it is permissible, as an exception, to aggregate the Covered Work or its Derivative Work on a single medium. In such cases, the entirety of the aggregated works on the medium does not need to be subjected to the terms of this License. This exception is designed to facilitate compatibility and usability within systems encompassing a diverse range of licensing agreements.
 
-The following disclaimers must be prominently displayed in the documentation and any other materials that are provided with the distribution of the Covered Work or Derivative Work:
+The following disclaimers must keep being prominently displayed in the documentation and any other materials for the Covered Work or a Derivative Work:
 
 **EXCEPT WHEN OTHERWISE STATED IN WRITING, THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE COVERED WORK "AS IS" WITHOUT IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, MERCHANTABILITY AND TITLE, AND ANY OTHER KIND OF EXPRESS OR IMPLIED WARRANTIES.**
 
