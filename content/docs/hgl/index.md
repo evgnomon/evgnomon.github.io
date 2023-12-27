@@ -32,7 +32,7 @@ Copyright holders reserve all rights to protect this work and a derivative work 
 - **PERSON:** An individual, corporation, or other entity recognized by law as capable of rights and duties.
 - **WORK:** Any creation eligible for protection under copyright law.
 - **COVERED WORK:** A Work that is subject to the terms and conditions of this License.
-- **DERIVATIVE WORK:** A new creation that incorporates significant elements of the Covered Work, as defined by copyright law based on this Work.
+- **DERIVATIVE WORK:** A new creation as defined by copyright law as a derivative work based on this Work.
 - **RESTRICT:** The exclusive right, granted by copyright law, to regulate and control the use and distribution of a copyrighted Work.
 - **MODIFY:** To alter a Work by adding to, deleting from, or otherwise changing its original content.
 - **CODE:** A form of expression consisting of a specific arrangement of numbers, symbols, letters, or words, stored on a medium and eligible for copyright protection.
@@ -44,7 +44,7 @@ Copyright holders reserve all rights to protect this work and a derivative work 
 
 #### 0. Copying, Modification, Distribution
 
-The Covered Work is hereby granted the freedom of copying and modification without restriction. And any Derivative Work that is based on the Covered Work may also be distributed, provided that the Source Code of the Derivative Work is made available for free to all recipients and remains subject to the terms of this License, without the imposition of additional restrictions, terms, or conditions, and without enforcement obligations being imposed by third parties, including state entities. Therefore, all copies, modifications, and distributions of the Covered Work must retain the original copyright notice and include an unaltered copy of this License.
+The Covered Work is hereby granted the freedom of copying and modification without restriction. And any Derivative Work that is based on the Covered Work may also be distributed, provided that the Source Code of the Derivative Work is made available for free to all recipients and remains subject to the terms of this License, without the imposition of additional restrictions, terms, or conditions, and without enforcement obligations including patent enforcement imposed by third parties or state entities. Therefore, all copies, modifications, and distributions of the Covered Work must retain the original copyright notice and include an unaltered copy of this License.
 
 #### 1. Aggregation of works
 
