@@ -18,33 +18,33 @@ Lund, Sweden
 
 ### PREAMBLE
 
-We maintain that there's no necessity to alter this license for those who intend to utilize, augment, or create derivative works from our original work. Consequently, we've set forth specific guidelines for the distribution of any such derivative works. Any distributed improvements or derivatives must adhere to the same licensing terms as our original work.
+We maintain that there's no necessity to alter this license for those who intend to utilize, augment, or create derivative works from our original covered work. Consequently, we've set forth specific guidelines for the distribution of any such derivative works. Any distributed improvements or derivatives must adhere to the same licensing terms as our original work.
 
 We encourage contributions to our original work, helping to prevent dependency on outdated versions. We anticipate a single primary code branch, from which all derivatives will emerge.
 
-Our license permits the use of our work in closed-source projects, software as a service, or other methods that effectively safeguard your work, provided you do not distribute our work or its derivatives. Distribution must be exclusively licensed under the conditions of this license.
+Our license permits the use of our work in "closed-source" projects, "software as a service", or other methods that effectively safeguard your work, provided you do not distribute a derivative work. Distribution must be exclusively licensed under the conditions of this license.
 
 By ensuring our work is distributed under this uniform license, we gain two key benefits: it allows for continuous enhancement through derivative works, maximizing the utility of our original work in the short term, and our distribution approach proves more cost-efficient in the long run, establishing a distinct identity for our work. This license unifies us against fragmentation, enabling us to outperform competitors while adhering to our original terms.
 
-Copyright holders reserve all rights to protect the work and a derivative work covered by this License.
+Copyright holders reserve all rights to protect this work and a derivative work covered by this License.
 
 ### DEFINITIONS
 - **PERSON:** An individual, corporation, or other entity recognized by law as capable of rights and duties.
 - **WORK:** Any creation eligible for protection under copyright law.
-- **DERIVATIVE WORK:** A new creation that incorporates significant elements of an existing copyrighted work, as defined by copyright law.
-- **RESTRICT:** The exclusive right, granted by copyright law, to regulate and control the use and distribution of a copyrighted work.
-- **COVERED WORK:** A work that is subject to the terms and conditions of this license.
-- **MODIFY:** To alter a work by adding to, deleting from, or otherwise changing its original content.
+- **COVERED WORK:** A Work that is subject to the terms and conditions of this License.
+- **DERIVATIVE WORK:** A new creation that incorporates significant elements of the Covered Work, as defined by copyright law based on this Work.
+- **RESTRICT:** The exclusive right, granted by copyright law, to regulate and control the use and distribution of a copyrighted Work.
+- **MODIFY:** To alter a Work by adding to, deleting from, or otherwise changing its original content.
 - **CODE:** A form of expression consisting of a specific arrangement of numbers, symbols, letters, or words, stored on a medium and eligible for copyright protection.
-- **SOURCE CODE:** The preferred form of code for making modifications, typically human-readable and used in software development.
-- **RECEIVE:** The act of obtaining a copy of a work for use by a person.
-- **DEPENDENT:** A status where a recipient is subject to restrictions imposed by another party in using a derivative work based on the covered work.
-- **INDEPENDENT:** A status where a person is free from any dependencies or restrictions in relation to the use of a work.
-- **DISTRIBUTION:** The act of making a work available for receipt for a person, who is otherwise independent.
+- **SOURCE CODE:** The preferred form of Code for making modifications, typically human-readable and used in software development.
+- **RECEIVE:** The act of obtaining a copy of a Work for use by a Person.
+- **DEPENDENT:** A status where a Recipient is subject to restrictions imposed by another party in using a Derivative Work.
+- **INDEPENDENT:** A status where a Person is free from any dependencies or restrictions in relation to the use of a derivative work.
+- **DISTRIBUTION:** The act of making a Derivative Work available for receipt for a Person, who is otherwise independent.
 
 #### 0. Copying, Modification, Distribution
 
-The Covered Work is hereby granted the freedom of copying and modification without restriction. And any Derivative Work that is based on the Covered Work may also be distributed freely, provided that the Source Code of the Derivative Work is made available to all recipients and remains subject to the terms of this License, without the imposition of additional restrictions, terms, or conditions, and without enforcement obligations being imposed by third parties, including state entities. Furthermore, all copies, modifications, and distributions of the Covered Work must retain the original copyright notice and include an unaltered copy of this License.
+The Covered Work is hereby granted the freedom of copying and modification without restriction. And any Derivative Work that is based on the Covered Work may also be distributed freely, provided that the Source Code of the Derivative Work is made available for free to all recipients and remains subject to the terms of this License, without the imposition of additional restrictions, terms, or conditions, and without enforcement obligations being imposed by third parties, including state entities. Therefore, all copies, modifications, and distributions of the Covered Work must retain the original copyright notice and include an unaltered copy of this License.
 
 #### 1. Aggregation of works
 
