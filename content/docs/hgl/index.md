@@ -41,7 +41,7 @@ Copyright holders reserve all rights to protect the work and a derivative work c
 - **RECEIVE:** The act of obtaining a copy of a work for use by a person.
 - **DEPENDENT:** A status where a recipient is subject to restrictions imposed by another party in using a derivative work based on the covered work.
 - **INDEPENDENT:** A status where a person is free from any dependencies or restrictions in relation to the use of a work.
-- **Distribution:** The act of making a work available for receipt for a person, who is otherwise independent.
+- **DISTRIBUTION:** The act of making a work available for receipt for a person, who is otherwise independent.
 
 #### 0. Copying, Modification, Distribution
 
