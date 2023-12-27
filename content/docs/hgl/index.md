@@ -29,7 +29,6 @@ By ensuring our work is distributed under this uniform license, we gain two key 
 Copyright holders reserve all rights to protect the work and a derivative work covered by this License.
 
 ### DEFINITIONS
-- **THE COVENANT:** The zero term of this agreement.
 - **PERSON:** An individual, corporation, or other entity recognized by law as capable of rights and duties.
 - **WORK:** Any creation eligible for protection under copyright law.
 - **DERIVATIVE WORK:** A new creation that incorporates significant elements of an existing copyrighted work, as defined by copyright law.
