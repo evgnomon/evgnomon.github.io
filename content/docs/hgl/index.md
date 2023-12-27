@@ -46,7 +46,7 @@ Copyright holders reserve all rights to protect this work and a derivative work 
 
 The Covered Work is hereby granted the freedom of copying and modification without restriction. And any Derivative Work that is based on the Covered Work may also be distributed, provided that the Source Code of the Derivative Work is made available for free to all recipients and remains subject to the terms of this License, without the imposition of additional restrictions, terms, or conditions, and without enforcement obligations including patent enforcement imposed by third parties or state entities. Therefore, all copies, modifications, and distributions of the Covered Work must retain the original copyright notice and include an unaltered copy of this License.
 
-#### 1. Aggregation of works
+#### 1. Aggregation
 
 In instances where the Covered Work or its Derivative Work is integrated into a system comprising works governed by various licenses, it is permissible, as an exception, to aggregate the Covered Work or its Derivative Work on a single medium. In such cases, the entirety of the aggregated works on the medium does not need to be subjected to the terms of this License. This exception is designed to facilitate compatibility and usability within system(s) encompassing a diverse range of licensing agreements.
 
