@@ -29,42 +29,41 @@ By ensuring our work is distributed under this uniform license, we gain two key 
 Copyright holders reserve all rights to protect the work and a derivative work covered by this License.
 
 ### DEFINITIONS
-- **THE COVENANT:** the zero term of this agreement
-- **PERSON:** an individual or a legal entity
-- **WORK:** what is protectable under copyright law
-- **DERIVATIVE WORK:** work which is "derivative work" under copyright based on another work
-- **RESTRICT:** one person that is allowed by copyright law to control the use of work
-- **COVERED WORK:** A work which is restricted under terms and conditions of this license also a derivative work based on a covered work
-- **MODIFY:** add to and/or delete from the work
-- **CODE:** a work represented by a particular arrangement or sequence of numbers, symbols, letters, words, on a memory which is protectable under copyright
-- **SOURCE CODE:** a kind of code which is preferred for making modifications
-- **RECEIVE:** the situation that a work gets transferred to a person in copy for use
-- **DEPENDENT:** both persons are dependent if one restricts the other using a covered work
-- **INDEPENDENT** two persons are both independent if non of those is dependent to the other
-- **DISTRIBUTE:** the situation that an independent person receives work 
+- **THE COVENANT:** The zero term of this agreement.
+- **PERSON:** An individual, corporation, or other entity recognized by law as capable of rights and duties.
+- **WORK:** Any creation eligible for protection under copyright law.
+- **DERIVATIVE WORK:** A new creation that incorporates significant elements of an existing copyrighted work, as defined by copyright law.
+- **RESTRICT:** The exclusive right, granted by copyright law, to regulate and control the use and distribution of a copyrighted work.
+- **COVERED WORK:** A work that is subject to the terms and conditions of this license.
+- **MODIFY:** To alter a work by adding to, deleting from, or otherwise changing its original content.
+- **CODE:** A form of expression consisting of a specific arrangement of numbers, symbols, letters, or words, stored on a medium and eligible for copyright protection.
+- **SOURCE CODE:** The preferred form of code for making modifications, typically human-readable and used in software development.
+- **RECEIVE:** The act of obtaining a copy of a work for use by a person.
+- **DEPENDENT:** A status where a recipient is subject to restrictions imposed by another party in using a derivative work based on the covered work.
+- **INDEPENDENT:** A status where a person is free from any dependencies or restrictions in relation to the use of a work.
+- **Distribution:** The act of making a work available for receipt for a person, who is otherwise independent.
 
-#### 0. Copying, modification and distribution
+#### 0. Copying, Modification, Distribution
 
-Copying, modification and distribution of the covered work is unrestricted if the source code of the distributed derivative work based on the covered work is also distributed for all receivers and under this license without further restriction, term and condition or enforcing compliance by third parties including the state. Copying, modification and distribution of the covered work must keep the copyright notice and a verbatim copy of this license.
+The Covered Work is hereby granted the freedom of copying and modification without restriction. And any Derivative Work that is based on the Covered Work may also be distributed freely, provided that the Source Code of the Derivative Work is made available to all recipients and remains subject to the terms of this License, without the imposition of additional restrictions, terms, or conditions, and without enforcement obligations being imposed by third parties, including state entities. Furthermore, all copies, modifications, and distributions of the Covered Work must retain the original copyright notice and include an unaltered copy of this License.
 
 #### 1. Aggregation of works
 
-In order to have the covered work useful in a system with works under different licenses, a distribution can exceptionally aggregate the covered work on the same medium without having the whole covered under this license.
+In instances where the Covered Work or its Derivative Work is integrated into a system comprising works governed by various licenses, it is permissible, as an exception, to aggregate the Covered Work or its Derivative Work on a single medium. In such cases, the entirety of the aggregated works on the medium does not need to be subjected to the terms of this License. This exception is designed to facilitate compatibility and usability within systems encompassing a diverse range of licensing agreements.
 
-The following disclaimers must appropriately published in the documentation and/or other materials provided with a distribution:
+The following disclaimers must be prominently displayed in the documentation and any other materials that are provided with the distribution of the Covered Work or Derivative Work:
 
 **EXCEPT WHEN OTHERWISE STATED IN WRITING, THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE COVERED WORK "AS IS" WITHOUT IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, MERCHANTABILITY AND TITLE, AND ANY OTHER KIND OF EXPRESS OR IMPLIED WARRANTIES.**
 
 **IN NO EVENT SHALL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, LOSS OF GOODWILL, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE COVERED WORK OR AS A RESULT OF OUR LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.**
 
-However, You may at your option offer support, warranty, indemnity, or other liability obligations and/or rights consistent with this license in exchange for a fee.
+Nevertheless, you retain the option to extend offers of support, warranties, indemnities, or other liability obligations and/or rights in alignment with this License. Such offers may be provided in exchange for a fee, at your discretion. This provision allows you to engage in commercial transactions by offering additional services or assurances while remaining compliant with the terms of this License.
 
 ## END OF TERMS AND CONDITIONS
 
 ### APPLICATION
 
-You apply this License on your work by keeping a verbatim copy of this license visible for receivers.
-Programs can print the copyright notice in the terminal like this:
+You affirmatively apply the terms of this License to your work by ensuring a verbatim copy of this License is readily accessible and visible to all recipients. For programs, this can be implemented by displaying the copyright notice within the terminal interface. An example of such a display is as follows:
 
 ```plaintext
 < one line to give the program's name and a brief idea of what it does. >
