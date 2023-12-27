@@ -44,7 +44,7 @@ Copyright holders reserve all rights to protect this work and a derivative work 
 
 #### 0. Copying, Modification, Distribution
 
-The Covered Work is hereby granted the freedom of copying and modification without restriction. And any Derivative Work that is based on the Covered Work may also be distributed freely, provided that the Source Code of the Derivative Work is made available for free to all recipients and remains subject to the terms of this License, without the imposition of additional restrictions, terms, or conditions, and without enforcement obligations being imposed by third parties, including state entities. Therefore, all copies, modifications, and distributions of the Covered Work must retain the original copyright notice and include an unaltered copy of this License.
+The Covered Work is hereby granted the freedom of copying and modification without restriction. And any Derivative Work that is based on the Covered Work may also be distributed, provided that the Source Code of the Derivative Work is made available for free to all recipients and remains subject to the terms of this License, without the imposition of additional restrictions, terms, or conditions, and without enforcement obligations being imposed by third parties, including state entities. Therefore, all copies, modifications, and distributions of the Covered Work must retain the original copyright notice and include an unaltered copy of this License.
 
 #### 1. Aggregation of works
 
