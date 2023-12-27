@@ -39,7 +39,7 @@ Copyright holders reserve all rights to protect this work and a derivative work 
 - **SOURCE CODE:** The preferred form of Code for making modifications, typically human-readable and used in software development.
 - **RECEIVE:** The act of obtaining a copy of a Work for use by a Person.
 - **DEPENDENT:** A status where a Recipient is subject to restrictions imposed by another party in using a Derivative Work.
-- **INDEPENDENT:** A status where a Person is free from any dependencies or restrictions in relation to the use of a derivative work.
+- **INDEPENDENT:** A status where a Person is free from any dependencies or restrictions in relation to the use of a Derivative Work.
 - **DISTRIBUTION:** The act of making a Derivative Work available for receipt for a Person, who is otherwise independent.
 
 #### 0. Copying, Modification, Distribution
@@ -48,7 +48,7 @@ The Covered Work is hereby granted the freedom of copying and modification witho
 
 #### 1. Aggregation of works
 
-In instances where the Covered Work or its Derivative Work is integrated into a system comprising works governed by various licenses, it is permissible, as an exception, to aggregate the Covered Work or its Derivative Work on a single medium. In such cases, the entirety of the aggregated works on the medium does not need to be subjected to the terms of this License. This exception is designed to facilitate compatibility and usability within systems encompassing a diverse range of licensing agreements.
+In instances where the Covered Work or its Derivative Work is integrated into a system comprising works governed by various licenses, it is permissible, as an exception, to aggregate the Covered Work or its Derivative Work on a single medium. In such cases, the entirety of the aggregated works on the medium does not need to be subjected to the terms of this License. This exception is designed to facilitate compatibility and usability within system(s) encompassing a diverse range of licensing agreements.
 
 The following disclaimers must keep being prominently displayed in the documentation and any other materials for the Covered Work or a Derivative Work:
 
