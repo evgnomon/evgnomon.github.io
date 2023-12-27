@@ -42,7 +42,7 @@ Copyright holders reserve all rights to protect this work and a derivative work 
 - **INDEPENDENT:** A status where a Person is free from any dependencies or restrictions in relation to the use of a Derivative Work.
 - **DISTRIBUTION:** The act of making a Derivative Work available for receipt for a Person, who is otherwise independent.
 
-#### 0. Copying, Modification, Distribution
+#### 0. Copying, Modification and Distribution
 
 The Covered Work is hereby granted the freedom of copying and modification without restriction. And any Derivative Work that is based on the Covered Work may also be distributed, provided that the Source Code of the Derivative Work is made available for free to all recipients and remains subject to the terms of this License, without the imposition of additional restrictions, terms, or conditions, and without enforcement obligations including patent enforcement imposed by third parties or state entities. Therefore, all copies, modifications, and distributions of the Covered Work must retain the original copyright notice and include an unaltered copy of this License.
 
