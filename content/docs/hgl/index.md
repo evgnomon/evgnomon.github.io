@@ -20,13 +20,9 @@ Lund, Sweden
 
 We maintain that there's no necessity to alter this license for those who intend to utilize, augment, or create derivative works from our original covered work. Consequently, we've set forth specific guidelines for the distribution of any such derivative works. Any distributed improvements or derivatives must adhere to the same licensing terms as our original work.
 
-We encourage contributions to our original work, helping to prevent dependency on outdated versions. We anticipate a single primary code branch, from which all derivatives will emerge.
+We encourage contributions to our original work, helping to prevent dependency on outdated versions. We anticipate a single primary code branch, from which all derivatives will emerge. In the other hand this license permits the use of our work in "closed-source" projects, or other methods that effectively safeguard your work, provided you do not distribute a derivative work. Distribution must be exclusively licensed under the conditions of this license.
 
-Our license permits the use of our work in "closed-source" projects, or other methods that effectively safeguard your work, provided you do not distribute a derivative work. Distribution must be exclusively licensed under the conditions of this license.
-
-By ensuring our work is distributed under this uniform license, we gain two key benefits: it allows for continuous enhancement through derivative works, maximizing the utility of our original work in the short term, and our distribution approach proves more cost-efficient in the long run, establishing a distinct identity for our work. This license unifies us against fragmentation, enabling us to outperform competitors while adhering to our original terms. 
-
-As a receiver we want to receive derivative works for free without knowing anything further than this license to know terms and conditions to copy, modify and distribute the covered work and or a derivative work. Copyright holders reserve all rights to protect this work and derivative works covered by this License.
+By ensuring our work is always distributed under this uniform license and not any other terms or conditions, we gain two key benefits: (1) it allows for continuous enhancement through derivative works, maximizing the utility of our original work, and (2) our free distribution approach proves more cost-efficient in the long run, establishing a distinct identity for our work. So as a receiver we want to receive distributed derivative works for free without need to know further than this license for continuous copying, modification and (re)distribution. This license unifies us against fragmentation, enabling us to outperform competitors while adhering to our original terms. Copyright holders reserve all rights to protect this work and derivative works covered by this License.
 
 ### DEFINITIONS
 - **PERSON:** An individual, corporation, or other entity recognized by law as capable of rights and duties.
