@@ -1,8 +1,6 @@
 ---
 title: "Technology Singularity and The State"
 date: 2023-12-22T10:35:28+01:00
-# bookComments: false
-# bookSearchExclude: false
 ---
 ![Technology Singularity](tech-singularity.png)
 

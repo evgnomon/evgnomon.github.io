@@ -1,8 +1,8 @@
 ---
 title: "HGL General License"
 date: 2023-12-10T15:10:37+01:00
-draft: false
-weight: 10
+categories: License
+tags: ["HGL General License"]
 ---
 
 ## HGL GENERAL LICENSE

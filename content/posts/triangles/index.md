@@ -1,8 +1,8 @@
 ---
 title: "Triangles"
-date: 2023-12-10T16:43:28+01:00
-# bookComments: false
-# bookSearchExclude: false
+date: 2023-12-31T16:43:28+01:00
+tags: ["Digital"]
+categories: ["Vision"]
 ---
 ![Triangles](spider-assembly.png)
 

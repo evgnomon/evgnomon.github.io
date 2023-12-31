@@ -1,8 +1,8 @@
 ---
 title: "Digital Factory"
 date: 2023-12-10T16:43:28+01:00
-# bookComments: false
-# bookSearchExclude: false
+tags: ["Digital"]
+categories: ["Vision"]
 ---
 ![Digital Factory](car-factory-pipeline-robot.png)
 

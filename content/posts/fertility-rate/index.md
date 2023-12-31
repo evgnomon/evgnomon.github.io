@@ -1,19 +1,17 @@
 ---
 title: "Fertility Rate"
-date: 2023-12-10T16:43:28+01:00
-# bookComments: false
-# bookSearchExclude: false
+date: 2023-12-29T16:43:28+01:00
+tags: ["Fertility Rate"]
+categories: ["Vision"]
 ---
 ![Fertility Rate](fertility-rate.png)
 
-Fertility rate should be apparently two or slightly more in average for sustainable population.
-It is what math suggests.
-Lower fertility rate means kids are not useful. What?
+A sustainable population requires a fertility rate of around two or slightly more, on average, as suggested by mathematics. A lower fertility rate implies that children are seen as less useful.
 
-When I subscribe to a product, it becomes more useful later. The system gets accelerated and the price approaches zero. The product and the team behind it becomes more attractive. The same story is with kids but the price tag has a negative sign! Less they are used more useless it becomes in the next cycle so the price tag increases until it approach zero when kids are really a problem than a solution. It becomes less attractive for families.
+When subscribing to a product, its utility often increases over time, accelerating its value and potentially reducing its cost. This principle can be similarly applied to children, but with a negative cost implication. The less children are 'utilized' in a society, the more expensive they become in the subsequent cycle, until they are perceived as a problem rather than a solution, making the prospect of having children less attractive to families.
 
-Negative price for kids comes from the utility of a kid measured in long term. Like an investment. But loosing one more subscription for kids also increases the marginal cost for the next kid as the entire system shrinks in size and the cost for the next kid also increases on family level. So the price tag increases from a negative baseline to zero makes the investment less attractive. Basically the next kid faces with more issues.
+The negative cost associated with children stems from their long-term utility, akin to an investment. However, a decline in the number of children (akin to losing subscribers) increases the marginal cost for subsequent children, as the system supporting them shrinks, thereby increasing the familial cost. As a result, the 'investment' becomes less attractive, with the next child facing more challenges.
 
-The return of the next kid is on the whole system while the investment has to return to the individuals paying for it. How one can expect this happen if adding one more kid to the system means extending the life for a system which has driven to have less kids? Falling fertility rates from a large number to unsustainable levels over decades is a free fall i.e. accelerated. It will keep being low and lower until a big global event return it back to normal inside another system which has been normal since the beginning. Perhaps a singularity changing everything else too!
+The return on investment for a child impacts the entire system, while the cost is borne by the individual family. In a system that is increasingly inclined towards having fewer children, adding another child extends the lifespan of this system. The continuous decline in fertility rates, akin to a free fall, will persist until a significant global event resets it within a new, more sustainable system.
 
-Subscription is always about acceleration. Free fall for fertility rate is subscription for death. How one would want to fix this later while it is much easier to fix it now, a decade ago, or even fifity years ago? Would be any other way than start to live in a system from now which fertility rate doesn't fall again?
+Subscriptions are about growth and acceleration, whereas a declining fertility rate is analogous to a subscription to decline or 'death.' Addressing this issue now is more feasible than attempting to resolve it in the future. The solution may lie in transitioning to a system where the fertility rate does not continue to decline.

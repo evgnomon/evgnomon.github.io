@@ -1,15 +1,7 @@
 ---
 title: "GPG Keys"
-weight: 1
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
+tags: ["GPG"]
 ---
-# GPG Keys
-
 ```plaintext
 Personal:
 pub   ed25519 2023-12-09 [SC] [expires: 2025-12-08]

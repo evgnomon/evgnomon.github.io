@@ -1,0 +1,143 @@
+baseURL: "https://evgnomon.org/"
+title: Evgnomon
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Evgnomon
+  description: "evgnomon.org"
+  keywords: [Blog, Book]
+  author: evgnomon
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: true
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: true
+
+  # assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    # favicon: "<link / abs url>"
+    # favicon16x16: "<link / abs url>"
+    # favicon32x32: "<link / abs url>"
+    # apple_touch_icon: "<link / abs url>"
+    # safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "evgnomon.org"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false
+    title: evgnomon
+    subtitle: "Freedom 🦄 is not an option for you unless being your choice."
+    # imageUrl: "<img location>"
+    # imageWidth: 120
+    # imageHeight: 120
+    # imageTitle: Hamed Ghasemzadeh
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # socialIcons:
+  #   - name: github
+  #     url: "https://github.com/evgnomon"
+  #   - name: linkedin
+  #     url: "https://www.linkedin.com/in/evgnomon/"
+  #   - name: email
+  #     url: "mailto:Hamed Ghasemzadeh <hg@evgnomon.org>"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/evgnomon/evgnomon.github.io/edit/main/content"
+    Text: "Edit"
+    appendFilePath: true
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags-pages
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search-page
+      name: Search
+      url: /search/
+      weight: 30
+    - identifier: hgl
+      name: HGL
+      url: /docs/hgl
+      weight: 31
+    - identifier: about-page
+      name: About
+      url: /docs/about
+      weight: 32
+    - identifier: gpg-page
+      name: GPG
+      url: /docs/gpg
+      weight: 33
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
