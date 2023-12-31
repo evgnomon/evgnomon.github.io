@@ -50,8 +50,9 @@ MODIFY:           to alter a Work by adding to, deleting from, or otherwise
                   changing its original content.
 SOURCE CODE:      the preferred form of code for making modifications.
 RECEIVE:          the act of obtaining a copy of a Work for use.
-DEPENDENT:        a status where a Recipient is subject to restrictions,
-                  already imposed by another party, for a Derivative Work.
+DEPENDENT:        a status where a Recipient is subject to restrictions other
+                  than this license which are already imposed by another party
+                  for a Derivative Work.
 DISTRIBUTION:     the act of making the Covered Work or a Derivative Work
                   available for receipt for a Person, who is otherwise independent.
 

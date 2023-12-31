@@ -20,7 +20,7 @@ Lund, Sweden
 
 We maintain that there's no necessity to alter this license for those who intend to utilize, augment, or create derivative works from our original covered work. Consequently, we've set forth specific guidelines for the distribution of any such derivative works. Any distributed improvements or derivatives must adhere to the same licensing terms as our original work.
 
-We encourage your contributions to our original work, helping you to prevent dependency on your outdated versions as we anticipate a single primary code branch, from which all derivatives will emerge. Otherwise, this license also lets you use of our work in "closed-source" projects, or other methods that safeguard your derivative works, provided you do not distribute a derivative work as distribution must be exclusively licensed under this license.
+We encourage your contributions to our original work, helping you to prevent dependency on your outdated versions as we anticipate a single primary code branch, from which all derivatives will emerge. Otherwise, this license also lets you use our work in "closed-source" projects, or other methods that safeguard your derivative works, provided you do not distribute a derivative work as distribution must be exclusively licensed under this license.
 
 By ensuring our work is always distributed under this uniform license and not any other terms or conditions, we gain two key benefits: (1) it enables continuous enhancement through derivative works, maximizing the utility of our original work and so the user base, and (2) our free distribution approach proves more cost-efficient in the long run, establishing a distinct identity for the covered work. So as a receiver we apparently protect our work to be able to receive distributed derivative works for free without need to know further than this license for continuous improvement via copying, modification and (re)distribution. This license unifies us against fragmentation, enabling us to outperform competitors while permanently adhering to our original terms and expect the same from you.
 
@@ -35,8 +35,8 @@ Copyright holders reserve all rights to protect this work and derivative works c
 - **MODIFY:** To alter a Work by adding to, deleting from, or otherwise changing its original content.
 - **SOURCE CODE:** The preferred form of code for making modifications.
 - **RECEIVE:** The act of obtaining a copy of a Work for use.
-- **DEPENDENT:** A status where a Recipient is subject to restrictions, already imposed by another party, for a Derivative Work.
-- **DISTRIBUTION:** The act of making the Covered Work or a Derivative Work available for receipt for a Person, who is otherwise independent.
+- **DEPENDENT:** a status where a Recipient is subject to restrictions other than this license which are already imposed by another party for a Derivative Work.
+- **DISTRIBUTION:** the act of making the Covered Work or a Derivative Work available for receipt for a Person, who is otherwise independent.
 
 #### 0. Copying, Modification and Distribution
 
@@ -48,7 +48,7 @@ In instances where the Covered Work or a Derivative Work is integrated into a sy
 
 The following disclaimers must keep being prominently displayed in the documentation and any other materials for the Covered Work or a Derivative Work:
 
-**EXCEPT WHEN OTHERWISE STATED IN WRITING, THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE COVERED WORK "AS IS" WITHOUT IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, MERCHANTABILITY AND TITLE, AND ANY OTHER KIND OF EXPRESS OR IMPLIED WARRANTIES.**
+**EXCEPT WHEN OTHERWISE STATED IN WRITING, THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE COVERED WORK "AS IS" WITHOUT IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, MERCHANTABILITY AND TITLE, AND ANY OTHER KIND OF EXPRESSED OR IMPLIED WARRANTIES.**
 
 **IN NO EVENT SHALL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, LOSS OF GOODWILL, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE COVERED WORK OR AS A RESULT OF OUR LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.**
 
@@ -64,7 +64,7 @@ You affirmatively apply the terms of this License to your work by ensuring a ver
 < one line to give the package's name and a brief idea of what it does. >
 Copyright (C) <year(s)> <name of author>. All rights reserved.
 License HGL: HGL General License <http://evgnomon.org/docs/hgl>
-There is NO warranty express or implied; to the extent permitted by law.
+There is NO warranty expressed or implied; to the extent permitted by law.
 ```
 
 Source files (text) under HGL contain this header.
