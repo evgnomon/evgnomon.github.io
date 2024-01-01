@@ -58,7 +58,7 @@ params:
   profileMode:
     enabled: true
     title: evgnomon
-    subtitle: "I am not bound to any ideology (except one, right?)!"
+    subtitle: "I am not bound to any ideology! (except one). In a digital world there can only be a single branch of code doing the integration, as I see it!"
     # imageUrl: "<img location>"
     # imageWidth: 120
     # imageHeight: 120
