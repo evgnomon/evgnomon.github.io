@@ -58,7 +58,7 @@ params:
   profileMode:
     enabled: true
     title: evgnomon
-    subtitle: "I am not bound to any ideology (except one). There can only be a single branch of code for integration in real world and that is also why it is not an option for you unless being your choice."
+    subtitle: "I am not bound to any ideology (except one). As a result, there can only be a single branch of code for everything integration in digital (real) world and that is also why it is not an option for you unless being already your choice. Welcome to evgnomon.org"
     # imageUrl: "<img location>"
     # imageWidth: 120
     # imageHeight: 120
@@ -72,6 +72,8 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/evgnomon"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/evgnomon/"
     - name: email
       url: "mailto:hg@evgnomon.org"
 
