@@ -71,7 +71,7 @@ languages:
       languageAltTitle: Farsi
       profileMode:
         title: "evgnomon"
-        subtitle: "من به هیچ ایدئولوژی پایبند نیستم (به جز یکی) . همان سودمندترین🔥! بنابراین تنها یک شاخه یگانه از کد اجرایی می تواند همه چیز را در دنیای دیجیتال (دنیای واقعی) به سازگای برساند! همان مهربان ترین 💕 برای ایجاد شاخه مخالف 😈 . بنابراین بی نیاز از توست مگر اینکه انتخاب تو باشد! به مدرسه خودت خوش آمدی. ما کد را برای یک دنیای واقعی ویرایش می کنیم! آدرس چرخشی بیت کوین برای فرشتگان ناشناسی است که نیاز به کمک به مدرسه دارند!"
+        subtitle: "من به هیچ ایدئولوژی پایبند نیستم (به جز یکی) . همان پرفایده‌ترین🔥! بنابراین تنها یک شاخه از کد اجرایی می تواند همه چیز را در دنیای دیجیتال (دنیای واقعی) یکی کند! همان که همواره بیدرنگ پذیرای 💕 ایجاد شاخه ناشناس است 😈 . بنابراین بی نیاز از توست تا که تو خود انتخاب کنی! به مدرسه خودت خوش آمدی. ما کد را برای یک دنیای واقعی ویرایش می کنیم! آدرس چرخشی بیت کوین برای فرشتگان ناشناسیست که باید به مدرسه کم کنند!"
         buttons:
           - name: Posts
             url: posts
@@ -120,7 +120,7 @@ params:
   profileMode:
     enabled: true
     title: evgnomon
-    subtitle: "I am not bound to any ideology (except one). The most beneficent 🔥! That is also why there can only be a single branch of code for an integrated digital world (real world)! The one that is most merciful 💕 for branch out 😈. and that is also why it doesn't have to be an option for you unless being your choice! Welcome to evgnomon's academy. We edit code for real! The rotating Bitcoin address is for anonymous angels who need to support the academy!"
+    subtitle: "I am not bound to any ideology (except one). The most beneficent 🔥! That is also why there can only be a single branch of code for an integrated digital world (real world)! The one that readily appreciates 💕 branching the source code 😈. and that is also why it doesn't have to be an option for you unless being your choice! Welcome to evgnomon's academy. We edit code for real! The rotating Bitcoin address is for anonymous angels who need to support the academy!"
     imageUrl: "evgnomon.svg"
     imageWidth: 180
     imageHeight: 180
