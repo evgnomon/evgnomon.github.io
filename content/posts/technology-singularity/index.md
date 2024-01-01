@@ -1,6 +1,7 @@
 ---
 title: "Technology Singularity and The State"
 date: 2023-12-22T10:35:28+01:00
+categories: ["The Wave"]
 ---
 ![Technology Singularity](tech-singularity.png)
 

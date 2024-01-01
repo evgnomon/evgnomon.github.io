@@ -2,7 +2,7 @@
 title: "Digital Factory"
 date: 2023-12-10T16:43:28+01:00
 tags: ["Digital"]
-categories: ["Vision"]
+categories: ["The Wave"]
 ---
 ![Digital Factory](car-factory-pipeline-robot.png)
 

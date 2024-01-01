@@ -40,34 +40,32 @@ params:
   showtoc: false
   tocopen: true
 
-  # assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    # favicon: "<link / abs url>"
-    # favicon16x16: "<link / abs url>"
-    # favicon32x32: "<link / abs url>"
-    # apple_touch_icon: "<link / abs url>"
-    # safari_pinned_tab: "<link / abs url>"
+  assets:
+    disableFingerprinting: true
+    favicon: "/evgnomon.svg"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
 
   label:
     text: "evgnomon.org"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  # profile-mode
   profileMode:
     enabled: true
     title: evgnomon
-    subtitle: "I am not bound to any ideology (except one). The most beneficent 🔥! That is also why there can only be a single branch of code for everything integration in digital world (real world)! The most merciful 💕 for branch out. and that is also why it doesn't have to be an option for you unless being your choice! Welcome to evgnomon's Academy. We edit code for real!"
-    # imageUrl: "<img location>"
-    # imageWidth: 120
-    # imageHeight: 120
-    # imageTitle: Hamed Ghasemzadeh
+    subtitle: "I am not bound to any ideology (except one). The most beneficent 🔥! That is also why there can only be a single branch of code for everything integration in digital world (real world)! The most merciful 💕 for branch out 😈. and that is also why it doesn't have to be an option for you unless being your choice! Welcome to evgnomon's Academy. We edit code for real! The rotating Bitcoin address is for anonymous angels who need to support the academy!"
+    imageUrl: "evgnomon.svg"
+    imageWidth: 180
+    imageHeight: 180
+    imageTitle: evgnomon.org academy logo
     buttons:
       - name: Posts
         url: posts
-      - name: Tags
-        url: tags
+      - name: Search
+        url: search
 
   socialIcons:
     - name: github
@@ -76,6 +74,10 @@ params:
       url: "https://www.linkedin.com/in/evgnomon/"
     - name: email
       url: "mailto:hg@evgnomon.org"
+    - name: bitcoin
+      url: "https://bitaps.com/bc1q4pwgdjt3reeqcr8m6lt2u97k4g4vnqst55mzzxxpjqpgjv80cgxsfvc9ut"
+    - name: link
+      url: "https://zygote.run"
 
   analytics:
     google:
@@ -119,14 +121,18 @@ menu:
       name: HGL
       url: /docs/hgl
       weight: 31
-    - identifier: about-page
-      name: About
-      url: /docs/about
-      weight: 32
     - identifier: gpg-page
       name: GPG
       url: /docs/gpg
-      weight: 33
+      weight: 32
+    - identifier: about-page
+      name: About
+      url: /docs/about
+      weight: 40
+    - identifier: zygote-dot-run
+      name: Zygote .Run
+      url: https://zygote.run
+      weight: 100
 pygmentsUseClasses: true
 markup:
   highlight:

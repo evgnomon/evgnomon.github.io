@@ -2,7 +2,7 @@
 title: "Triangles"
 date: 2023-12-31T16:43:28+01:00
 tags: ["Digital"]
-categories: ["Vision"]
+categories: ["Technique"]
 ---
 ![Triangles](spider-assembly.png)
 
