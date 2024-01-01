@@ -56,9 +56,9 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false
+    enabled: true
     title: evgnomon
-    subtitle: "Freedom 🦄 is not an option for you unless being your choice."
+    subtitle: "I am not bound to any ideology (except one, right?)!"
     # imageUrl: "<img location>"
     # imageWidth: 120
     # imageHeight: 120
@@ -69,13 +69,11 @@ params:
       - name: Tags
         url: tags
 
-  # socialIcons:
-  #   - name: github
-  #     url: "https://github.com/evgnomon"
-  #   - name: linkedin
-  #     url: "https://www.linkedin.com/in/evgnomon/"
-  #   - name: email
-  #     url: "mailto:Hamed Ghasemzadeh <hg@evgnomon.org>"
+  socialIcons:
+    - name: github
+      url: "https://github.com/evgnomon"
+    - name: email
+      url: "mailto:hg@evgnomon.org"
 
   analytics:
     google:
