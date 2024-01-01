@@ -2,7 +2,7 @@
 title: "Fertility Rate"
 date: 2023-12-29T16:43:28+01:00
 tags: ["Fertility Rate"]
-categories: ["Vision"]
+categories: ["The Wave"]
 ---
 ![Fertility Rate](fertility-rate.png)
 
