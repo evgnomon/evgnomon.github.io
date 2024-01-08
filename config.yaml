@@ -1,0 +1,149 @@
+baseURL: "https://evgnomon.org/"
+title: Evgnomon
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Evgnomon
+  description: "evgnomon.org"
+  keywords: [Blog, Book]
+  author: evgnomon
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: true
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: true
+
+  assets:
+    disableFingerprinting: true
+    favicon: "/evgnomon.svg"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
+
+  label:
+    text: "evgnomon.org"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  profileMode:
+    enabled: true
+    title: evgnomon
+    subtitle: "I am not bound to any ideology (except one). The most beneficent 🔥! That is also why there can only be a single branch of code for everything integration in digital world (real world)! The most merciful 💕 for branch out 😈. and that is also why it doesn't have to be an option for you unless being your choice! Welcome to evgnomon's Academy. We edit code for real! The rotating Bitcoin address is for anonymous angels who need to support the academy!"
+    imageUrl: "evgnomon.svg"
+    imageWidth: 180
+    imageHeight: 180
+    imageTitle: evgnomon.org academy logo
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Search
+        url: search
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/evgnomon"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/evgnomon/"
+    - name: email
+      url: "mailto:hg@evgnomon.org"
+    - name: bitcoin
+      url: "https://bitaps.com/bc1q4pwgdjt3reeqcr8m6lt2u97k4g4vnqst55mzzxxpjqpgjv80cgxsfvc9ut"
+    - name: link
+      url: "https://zygote.run"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/evgnomon/evgnomon.github.io/edit/main/content"
+    Text: "Edit"
+    appendFilePath: true
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags-pages
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search-page
+      name: Search
+      url: /search/
+      weight: 30
+    - identifier: hgl
+      name: HGL
+      url: /docs/hgl
+      weight: 31
+    - identifier: gpg-page
+      name: GPG
+      url: /docs/gpg
+      weight: 32
+    - identifier: about-page
+      name: About
+      url: /docs/about
+      weight: 40
+    - identifier: zygote-dot-run
+      name: Zygote .Run
+      url: https://zygote.run
+      weight: 100
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
