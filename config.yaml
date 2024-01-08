@@ -1,5 +1,5 @@
 baseURL: "https://evgnomon.org/"
-title: Evgnomon
+title: evgnomon .Org Academy
 paginate: 5
 theme: PaperMod
 
@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production
-  title: Evgnomon
-  description: "evgnomon.org"
+  title: evgnomon .Org
+  description: "evgnomon .Org"
   keywords: [Blog, Book]
   author: evgnomon
   DateFormat: "January 2, 2006"
@@ -49,18 +49,18 @@ params:
     safari_pinned_tab: "/safari-pinned-tab.svg"
 
   label:
-    text: "evgnomon.org"
+    text: "evgnomon .Org Academy"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   profileMode:
     enabled: true
-    title: evgnomon
-    subtitle: "I am not bound to any ideology (except one). The most beneficent 🔥! The why to be always ready accepting 💕 a branch out 😈. As Freedom is not an option for you unless being your choice! Welcome to evgnomon's Academy, we edit code for real! Use Bitcoin to support the academy if you need!"
+    title: evgnomon .Org Academy
+    subtitle: "I am not bound to any ideology (except one)! The most beneficial 🔥 choice. To accelerate, I wholeheartedly 💕 appreciate who branch outs 😈, by coding both ends for one. Freedom 🦄 is not an option for you unless being your choice. Welcome to evgnomon .Org Academy. We code for when no human is let in the factory! Use Bitcoin to support the academy if you need to!"
     imageUrl: "evgnomon.svg"
     imageWidth: 180
     imageHeight: 180
-    imageTitle: evgnomon.org academy logo
+    imageTitle: evgnomon .Org Academy logo
     buttons:
       - name: Posts
         url: posts
@@ -76,8 +76,6 @@ params:
       url: "mailto:hg@evgnomon.org"
     - name: bitcoin
       url: "https://bitaps.com/bc1q4pwgdjt3reeqcr8m6lt2u97k4g4vnqst55mzzxxpjqpgjv80cgxsfvc9ut"
-    - name: link
-      url: "https://zygote.run"
 
   analytics:
     google:
