@@ -1,5 +1,5 @@
 baseURL: "https://evgnomon.org/"
-title: evgnomon .Org Academy
+title: evgnomon's .Org Academy
 paginate: 5
 theme: PaperMod
 
@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production
-  title: evgnomon .Org
-  description: "evgnomon .Org"
+  title: evgnomon's .Org Academy
+  description: "evgnomon's .Org Academy"
   keywords: [Blog, Book]
   author: evgnomon
   DateFormat: "January 2, 2006"
@@ -49,13 +49,13 @@ params:
     safari_pinned_tab: "/safari-pinned-tab.svg"
 
   label:
-    text: "evgnomon .Org Academy"
+    text: "evgnomon's .Org Academy"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   profileMode:
     enabled: true
-    title: evgnomon .Org Academy
+    title: evgnomon's .Org Academy
     subtitle: "Freedom 🦄 is not an option for you unless being your choice."
     imageUrl: "evgnomon.svg"
     imageWidth: 180
