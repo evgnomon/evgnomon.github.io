@@ -70,8 +70,6 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/evgnomon"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/evgnomon/"
     - name: email
       url: "mailto:hg@evgnomon.org"
     - name: bitcoin
