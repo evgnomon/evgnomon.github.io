@@ -117,9 +117,9 @@ menu:
       name: HGL
       url: /docs/hgl
       weight: 31
-    - identifier: gpg-page
-      name: GPG
-      url: /docs/gpg
+    - identifier: openpgp-page
+      name: OpenPGP
+      url: /docs/openpgp
       weight: 32
     - identifier: about-page
       name: About
