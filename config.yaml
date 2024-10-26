@@ -125,10 +125,6 @@ menu:
       name: About
       url: /docs/about
       weight: 40
-    - identifier: zygote-dot-run
-      name: Zygote .Run
-      url: https://zygote.run
-      weight: 100
 pygmentsUseClasses: true
 markup:
   highlight:
