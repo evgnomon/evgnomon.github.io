@@ -1,20 +1,23 @@
 baseURL: "https://evgnomon.org/"
 title: evgnomon's .Org Academy
-paginate: 5
+
+pagination:
+  pagerSize: 5
 theme: PaperMod
+
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
-
 minify:
   disableXML: true
   minifyOutput: true
 
 params:
+  social:
+    github: evgnomon
   env: production
   title: evgnomon's .Org Academy
   description: "evgnomon's .Org Academy"
@@ -66,14 +69,6 @@ params:
         url: posts
       - name: Search
         url: search
-
-  socialIcons:
-    - name: github
-      url: "https://github.com/evgnomon"
-    - name: email
-      url: "mailto:hg@evgnomon.org"
-    - name: bitcoin
-      url: "https://bitaps.com/bc1q4pwgdjt3reeqcr8m6lt2u97k4g4vnqst55mzzxxpjqpgjv80cgxsfvc9ut"
 
   analytics:
     google:
