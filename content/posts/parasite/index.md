@@ -1,0 +1,26 @@
+---
+title: "The Parasite and the Superior"
+date: 2025-04-06T07:47:28+02:00
+categories: ["Technique"]
+---
+![Parasite](parasite.jpg)
+
+Ransom is to force something that isn’t needed. And a parasite is a ransom that does so as its natural way of living! A consensual relationship no one dares to break. The parasite has a vital reason for it, and the victim has a reason to accept it, for changing this bond is risky—endangering the parasite—while other victims must bear the burden of the first. Unless they all decide at once to sever the tie, which only happens in a perfect world where all relationships are consensual and true.
+
+Combat ransom through identification! Identification fails if consent lies between them, as it’s hard to recognize it as ransom. Even if you spot some cases, it’s mere chance. With a parasite, there’s consent, yet the relationship feeds off one side. Neither victim nor parasite can leave without risking the other.
+
+To combat a parasite, impose a few things that wouldn’t be needed in a parasite-free world. Then wait for both in the relationship to demand it undone! But they cannot—unless they’re willing to risk themselves—for it takes force when one side clings with intent. For all sides, it’s life! Force without limit, as the parasitic bond knows no bounds.
+
+Some might cry this violates human rights—applying force without consent, cloaked in noble terms like "freedom of something." While honoring that freedom, it subtly defends the parasite, at least by misdirection. The other side, chasing an ideal world, holds stronger ground, for it can wield the same logic against its foes—unless that foe also seeks an ideal! Yet that changes little, as victory demands force to prevail. All this calls for project plans, timelines, and defined goals—something worth risking life for!
+
+One side dreams of a perfect, ideal world; the other’s purpose is survival—keeping the same victim or finding a new one. The parasite fights to endure. In contrast, war risks the parasite’s life, so they always send victims to the front first. "I risk my life by risking my life" doesn’t hold for a parasite—their survival hinges solely on a victim. Without one, they’re not parasites, and none of this matters to them!
+
+The method lies in ruling out basic things unneeded in the most personal corners of human relationships—things they never got permission for. They simply agree by comparing their lot to others: how much power they have to shape their lives and work, how much say in their own fate, how secure they feel, how they plan and build projects, how much they can aid others, and what they can change—for themselves
+
+and others—when met with a "No!" But all this must be solved ideally, so the best is to not be tied to any of these as ideals—though this itself is an ideal, superior for achieving all others. Not so for a parasite—they’re bound to one or more of these flaws. They can’t trade one off for another in time. They can’t exist without a victim. They can’t be pinned as mere ransom. Their relationships can’t stand without consent. This demands consent, but the ideal-seeking side needs none, for they start at zero. The proof? The parasite’s very existence.
+
+Making consent the key to rights is a distraction—in a world with parasitic bonds, an imperfect world, war is natural. The question is: for what, and how? If everything has a price, one thing remains priceless. Non-consensual banning of the unneeded breaks the rule that all has a cost—for such an act lacks consent, letting one side set the price, a power that could spread to every human bond. This births a super-parasite, the only way to end the parasite’s life—by swallowing all parasite eggs but its own. The super-parasite, too, fades in a perfect world where parasite eggs dwindle to none!
+
+And the egg secures the parasite’s life cycle over time. The egg isn’t truly consensual—so the parasite can’t argue against the super-parasite’s egg, which isn’t consensual either. The egg is the bond between child and parent. No one fears the super-parasite’s egg—for to do so is to fear every egg! The parasite will resist this or turn to censorship. And the super-parasite can shatter parasite eggs in any parasitic tie. It needs no other form—its food comes from other parasitic bonds. In a perfect world, when that food runs dry, we arrive! This is the super-parasite’s ultimate goal—nothing better exists for it. Super-parasites agree on this alone—otherwise, one would force itself against another, which isn’t against a foe but itself, contradicting its mission—more akin to a super-clown’s folly!
+
+The surest way to treat a parasite is to enforce rules on the deepest roots of relationships—even private ones—rules unneeded in a perfect world. Nothing else drives a parasite to scramble for survival. Non-consensual rules on the bedrock of human ties will ripple outward, the parasite fearing a world with no victims left—a nightmare. Worse still if the foe is a parasite laying eggs: a super-parasite pointing at all, leaving neither victim nor parasite a defense! With a replicating super-parasite, victims can’t speak out—or they’ll just accept the parasitic bond as real, crippling their chance to rise above, until they see themselves sold by the first parasite to the greater one.
