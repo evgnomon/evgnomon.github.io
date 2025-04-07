@@ -3,7 +3,6 @@ title: "A Transparent Infrastructure is Functional"
 date: 2024-11-02T18:18:28+01:00
 categories: ["Teams"]
 ---
-![Gitops](gitops.webp)
 GitOps establishes itself as the core of a functional and declarative infrastructure model, where other tools and platforms become modular, interchangeable components. At its essence, GitOps uses a Git repository as the single source of truth, with infrastructure and application states defined in code. This means any change to the repository triggers automatic updates to deployments, allowing for a streamlined, automated flow without the need for a specific orchestration platform.
 
 By positioning central protocol for GitOps, infrastructure and applications can be managed directly through Git, bypassing intermediaries. Systems with access to Git can quickly pull changes and initiate deployments autonomously after modification. This decentralization makes orchestration platforms optional; instead of dictating workflows, the GitOps protocol enables any compatible tool to plug into the infrastructure, provided it follows the framework.
