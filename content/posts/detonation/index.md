@@ -4,6 +4,7 @@ date: 2025-04-16T07:47:28+02:00
 categories: ["Technique"]
 tags: ["Biohazard", "Detonation", "Nuclear","Reactor", "Energy", "Resistance", "Doctor", "Host", "Virus", "Security", "Battle", "Horizon", "Victim"]
 ---
+![Biohazard](biohazard.jpg)
 How can a doctor, who has an interest in keeping me sick, help me fight disease?
 
 They can certainly make me suffer and perhaps even kill me with all sorts of biological enemies. Such a doctor does everything except build resistance against biohazards. That’s why time pushes them forward to actually create one by censoring information.
