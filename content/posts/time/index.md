@@ -4,6 +4,7 @@ date: 2025-04-18T12:00:00+02:00
 categories: ["Resurrection"]
 tags: ["Time", "Non-time", "Resurrection", "Cell", "Invariant Time", "Symmetry", "Gravity", "Stem", "Error"]
 ---
+![Stem Cell](stem-cell.png)
 If there is time, there must be a non-time, disregarding what is taken as time, the non-time is made. So Read/Write is for and or by the time. Read/Write is a translation for and or by time. There would be no read unless written and there would be nothing written unless read.
 
 What time is it? This question won’t be answered without writing it! Reading time comes with writing a non-time otherwise how the reader was beside time in the beginning? And reading a non-time comes with writing time and or a non-time. So non-time modifies non-time to protect the written time in itself, it won’t exist otherwise. Read/Write is to protect no time except the original and one way of protection is to write non-time as time and all type of measures will be taken by non-time for non-time and time.
