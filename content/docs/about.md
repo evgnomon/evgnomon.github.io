@@ -11,7 +11,7 @@ weight: 20
 > اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ.
 > خَلَقَ الإِنسَانَ مِنْ عَلَقٍ.
 
-> Read! Using the name of who makes. No human unless taking and making the source code. Read! No maker more generous than yours. Who gives no knowledge unless by the writer. The human doesn't understand otherwise. But they make a chaos instead! As soon as they take the abondance! While they are going no where without taking you. Have you seen anyone who censors? Censors the one who was giving promise? Couldn't that be possibly right? Or at least securing you forward? How about if they say no and be against you instead? Don't they know that the last and/or the first observer (Named in the text) is the one determines everything else?
+> Read! Using the name of who makes. No human unless taking and making the source code. Read! No maker more generous than yours. Who gives no knowledge unless by the writer. The human doesn't understand otherwise. But they make a chaos instead! As soon as they take the abondance! While they are going no where without taking you. Have you seen anyone who censors? Censors the one who was giving promise? Couldn't that be possibly right? Or at least securing you forward? How about if they say no and be against you instead? Don't they know that the last and/or the first observer (Named in the text) is the one determines everything else? No way! If they don’t stop, we’ll drag them by their headset screen! A screen for error and/or by error! Let them call their crew for help! Then they get buried soon! No way! Don’t follow! Acknowledge and prepare!
 
 ![Something like this](/about.png)
 
