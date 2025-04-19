@@ -4,6 +4,7 @@ date: 2025-04-15T10:47:28+02:00
 categories: ["Resurrection"]
 tags: ["Dimmension", "Natural Selection", "Function", "Relation", "Language", "Gravity", "ID", "Dark Energy", "Discovery", "Invention", "Motion", "Non-Motion", "Code", "Anti-Code"]
 ---
+![Magnet](/magnet.png)
 Selection is natural when it can be unnatural and it is unnatural when it can be natural.
 If selection becomes too much natural, it continues accelerated until it ignites the first unnatural selection to the level that it doesn't come in relation with other selections unless leaving a reminder to repeat the process independently. The fuel to this process is the prior natural selection going on accelerated or it will never come to existence initially! While going accelerated fuels in the anti-natural selection process which on its own is the only real natural selection as there is nothing else existing in future.
 
