@@ -1,6 +1,6 @@
 ---
 title: "After Secularism"
-date: 2025-04-24T02:00:28+02:00
+date: 2025-04-24T16:38:28+02:00
 categories: ["Government"]
 tags: ["Secularism", "Government", "Non-Government"]
 ---
