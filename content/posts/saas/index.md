@@ -3,6 +3,7 @@ title: "SaaS is Interest, neither Service nor Software"
 date: 2025-04-08T13:27:28+02:00
 categories: ["Technique"]
 ---
+![SaaS](saas.jpg)
 Things are connected. It could be just a lamp and the switch. Or it could be a radar network with command and control. Or it could be a distributed system with thousands of micro back ends. The back end is the part of the system that is not directly visible to the user. It is responsible for processing data, managing resources, and providing data and information to the UI. The back end is often built using a combination of programming languages, frameworks, and tools that work together to create a cohesive system.
 
 As stuff are not in the same network necessarily, it is given internet access. Who owns the back end is a separate subject, but technically it is a central server that is responsible for processing requests and sending responses. The server can hold user accounts to process information for more than one user. The idea of deploying a central server to collect data and give access to the information is rooted in the fact that the server is not necessarily where it is going to be used. This is exactly why I pay for software being run on a remote server rather than maintaining it on my computer.
