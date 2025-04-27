@@ -32,7 +32,6 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
   ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
@@ -48,6 +47,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: true
+  ShowLanguageSwitcher: true
 
   assets:
     disableFingerprinting: true
@@ -98,32 +98,6 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
-    - identifier: tags-pages
-      name: Tags
-      url: /tags/
-      weight: 20
-    - identifier: search-page
-      name: Search
-      url: /search/
-      weight: 30
-    - identifier: hgl
-      name: HGL
-      url: /docs/hgl
-      weight: 31
-    - identifier: openpgp-page
-      name: OpenPGP
-      url: /docs/openpgp
-      weight: 32
-    - identifier: about-page
-      name: About
-      url: /docs/about
-      weight: 40
 pygmentsUseClasses: true
 markup:
   highlight:
@@ -138,3 +112,68 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    languageCode: en-us
+    weight: 1
+    menu:
+      main:
+        - identifier: categories
+          name: Categories
+          url: /categories/
+          weight: 10
+        - identifier: tags-pages
+          name: Tags
+          url: /tags/
+          weight: 20
+        - identifier: search-page
+          name: Search
+          url: /search/
+          weight: 30
+        - identifier: hgl
+          name: HGL
+          url: /docs/hgl
+          weight: 31
+        - identifier: openpgp-page
+          name: OpenPGP
+          url: /docs/openpgp
+          weight: 32
+        - identifier: about-page
+          name: About
+          url: /docs/about
+          weight: 40
+  fa:
+    title: "مدرسه .ساز"
+    languageName: فارسی
+    languageCode: fa-ir
+    weight: 2
+    params:
+      rtl: true  # Enable RTL for Farsi
+    menu:
+      main:
+        - identifier: categories
+          name: دسته بندی ها
+          weight: 10
+        - identifier: tags-pages
+          name: برچسب ها
+          url: /tags/
+          weight: 20
+        - identifier: search-page
+          name: جستجو
+          url: /search/
+          weight: 30
+        - identifier: hgl
+          name: HGL
+          url: /docs/hgl
+          weight: 31
+        - identifier: openpgp-page
+          name: OpenPGP
+          url: /docs/openpgp
+          weight: 32
+        - identifier: about-page
+          name: درباره
+          url: /docs/about
+          weight: 40
