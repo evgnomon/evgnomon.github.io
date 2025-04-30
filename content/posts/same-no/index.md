@@ -3,7 +3,7 @@ title: "We are all the same! Really?"
 date: 2025-04-09T11:59:28+02:00
 categories: ["Teams"]
 ---
-
+![No Same](np-same.png)
 Have you heard the one saying that "You are like those save in non-Bitcoin. You see them as enemy and they see you as enemy and your fight is about getting power and when you overcome they are going to repeat the same and this is a pointless never ending war, and let's stop all wars and accept the current situation. We are all the same!"
 
 OK! Assuming Bitcoin forgets Bitcoin, does the other side also forget Bitcoin?
