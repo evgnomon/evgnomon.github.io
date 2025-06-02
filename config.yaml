@@ -137,10 +137,14 @@ languages:
           name: HGL
           url: /docs/hgl
           weight: 31
+        - identifier: btc
+          name: BTC
+          url: /docs/btc
+          weight: 32
         - identifier: openpgp-page
           name: OpenPGP
           url: /docs/openpgp
-          weight: 32
+          weight: 33
         - identifier: about-page
           name: About
           url: /docs/about
