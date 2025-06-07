@@ -37,4 +37,4 @@ The only thing you need to do is to find a proper tracker of your work. and the 
 
 The name of this blue box kind of thing is Zygote which the source code is secured for you being free in the license and you can just realize your functions just by posting it to Zygote .Run and you can have a Zygote .Run instance in your lab, in your factory, in your city by assembling one or just by buying one assembled from someone who saves some money for you.
 
-As Zygote doesn't need to accept any currency except one, it imposes its own currency. It is Bitcoin. You need to accept Bitcoin to work for Zygote and you need to pay a transaction cost, a premium, if you want to buy from Zygote .Run using a currency except Bitcoin.
+As Zygote doesn't need to accept any currency except one, it imposes its own currency. It is BTC. You need to accept BTC to work for Zygote and you need to pay a transaction cost, a premium, if you want to buy from Zygote .Run using a currency except BTC.

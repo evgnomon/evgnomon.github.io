@@ -39,7 +39,7 @@ If the future value of something is infinite, it is also infinite right now by a
 
 Coming to this line means that you don't assume you know everything right? The money has infinite value, but to accelerate it, we need digital wealth, a digital software which gets modified forever on a single branch of code running everything. That is up to your choice! That is what you will want to work for as you would like to save even more money!
 
-I choose Bitcoin as money. It might require some modifications to be more efficient as software though. As long as it remains modifable, we can just keep it fixing forever.
+I choose BTC as money. It might require some modifications to be more efficient as software though. As long as it remains modifable, we can just keep it fixing forever.
 
 World is a software which modifies information. In case world is separate from software, there is nothing to make sure the software keeps being modifiable without self destruction. Even if you accept that software as is, won't let you survive as there is nothing to cap accumulation of errors but there is many things to accelerate it.
 

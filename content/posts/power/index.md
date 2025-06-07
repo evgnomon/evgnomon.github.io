@@ -2,11 +2,11 @@
 title: "The real enemy and Education"
 date: 2025-04-12T09:41:00+02:00
 categories: ["Education"]
-tags: ["Bitcoin", "Parasite", "Enemy", "Evil", "Power", "Screen"]
+tags: ["Parasite", "Enemy", "Evil", "Power", "Screen"]
 ---
 ![Power](power.jpg)
 
-Who says "No" to Bitcoin is supporting a thief or they a thieves. The first needs education; the second requires power. As we don’t know which one is the case, we need education and protection at the same time. Protection is a must, as the thief is not going to stop seeing the business going down.
+Who says "No" to BTC is supporting a thief or they a thieves. The first needs education; the second requires power. As we don’t know which one is the case, we need education and protection at the same time. Protection is a must, as the thief is not going to stop seeing the business going down.
 
 The protection has to be effective, depending on which type of parasite we are dealing with. The risk is that we target a small parasite that is a victim of a bigger parasite—and leave ourselves unprotected against the bigger parasite.
 
@@ -16,7 +16,7 @@ If the parasite is a company, we cannot protect ourselves by not using their ser
 
 The advantage of targeting the largest enemy is that any other victim will trust you at the right time when they need you more than anything else. This advantage is only for the one who targets the largest enemy.
 
-The world in which Bitcoin is not relevant anymore is a world where the largest enemy is defeated. The largest enemy is a screen between us and the real world. And the only way to overcome it is to make yours the one by making the one yours! Educate everyone by making the one yours, and make yours the one by defeating the real enemy.
+The world in which BTC is not relevant anymore is a world where the largest enemy is defeated. The largest enemy is a screen between us and the real world. And the only way to overcome it is to make yours the one by making the one yours! Educate everyone by making the one yours, and make yours the one by defeating the real enemy.
 
 Before and after an ally turns into a real enemy! Make the largest screen as ever possible and make it for one—that one doesn’t let you own anything else! Each second matters; every step is important when fighting in reality with the largest enemy ever. That enemy has no choice but to pull you to its own screen by applying an ever-increasing force to the extent that nothing else is worse than that. And only one survives!
 
