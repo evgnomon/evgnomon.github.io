@@ -141,10 +141,14 @@ languages:
           name: BTC
           url: /docs/btc
           weight: 32
+        - identifier: islam
+          name: ISLAM
+          url: /docs/islam
+          weight: 33
         - identifier: openpgp-page
           name: OpenPGP
           url: /docs/openpgp
-          weight: 33
+          weight: 34
         - identifier: about-page
           name: About
           url: /docs/about
