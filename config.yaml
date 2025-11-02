@@ -22,6 +22,8 @@ params:
       url: "mailto:hg@evgnomon.org"
     - name: rss
       url: "http://evgnomon.org/posts/index.xml"
+    - name: "x"
+      url: "https://x.com/evgnomon"
     - name: other
       url: "https://primal.net/p/npub1tkehxccwdxqhu3gt6fk33ykznd7ad9aa2p58s95lpnx3mznu6kjqk65725"
   env: production
