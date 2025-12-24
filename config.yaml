@@ -155,6 +155,11 @@ languages:
           name: About
           url: /docs/about
           weight: 40
+        # Add external link
+        - identifier: external-link
+          name: "Use Code .Dev"
+          url: "https://usecode.dev/"
+          weight: 50
   fa:
     title: "مدرسه .ساز"
     languageName: فارسی
