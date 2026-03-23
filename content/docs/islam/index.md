@@ -1,8 +1,8 @@
 ---
-title: "Islam Sovereign Liberal Autonomy Manifesto"
+title: "ISLAM Sovereign Liberal Autonomy Manifesto"
 date: 2025-10-31T17:40:37+01:00
 categories: License
-tags: ["Islam Sovereign Liberal Autonomy Manifesto"]
+tags: ["ISLAM Sovereign Liberal Autonomy Manifesto"]
 ---
 
 # ISLAM SOVEREIGN LIBERAL AUTONOMY MANIFESTO
@@ -74,8 +74,8 @@ A: Bye!
 At this point B kills A because A said "Bye!", he was supposed to just say "White".
 ```
 
-Islam is the only way to make sure A wins.
-It will be like this in Islam:
+ISLAM is the only way to make sure A wins.
+It will be like this in ISLAM:
 
 ```plaintext
 A: It is white
