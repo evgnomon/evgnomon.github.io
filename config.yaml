@@ -77,6 +77,8 @@ params:
         url: posts
       - name: Search
         url: search
+      - name: Tags
+        url: tags
 
   analytics:
     google:
@@ -123,18 +125,10 @@ languages:
     weight: 1
     menu:
       main:
-        - identifier: categories
-          name: Categories
-          url: /categories/
-          weight: 10
         - identifier: tags-pages
           name: Tags
           url: /tags/
           weight: 20
-        - identifier: search-page
-          name: Search
-          url: /search/
-          weight: 30
         - identifier: hgl
           name: HGL
           url: /docs/hgl
@@ -167,11 +161,11 @@ languages:
     weight: 2
     params:
       rtl: true  # Enable RTL for Farsi
+      profileMode:
+        title: "مدرسه .ساز"
+        subtitle: "آزادی 🦄 برای شما یک انتخاب نیست، مگر اینکه انتخاب خودتان باشد."
     menu:
       main:
-        - identifier: categories
-          name: دسته بندی ها
-          weight: 10
         - identifier: tags-pages
           name: برچسب ها
           url: /tags/
