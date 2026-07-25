@@ -12,7 +12,7 @@ weight: 20
 
 ![Something like this](/about.png)
 
-My username "evgnomon" is ευγνώμων in greek, meaning "grateful", which is also what my given name means in persian (فارسی). I was born in Tehran, Iran, and grew up in a neighborhood in the south of the city. I learned persian by reading literature a thousand years old, and later learned English so I could write and read code, which is how I have spent most of my working life. I am married with two kids, born in and living in Sweden. I write code as a software engineer, and the story has just started!
+My username "evgnomon" is ευγνώμων in greek, meaning "grateful", which is also what my given name means in persian (فارسی). I was born in Tehran, Iran, and grew up in a neighborhood in the south of the city. I am married with two kids, born in and living in Sweden. I write code as a software engineer, and the story has just started!
 
 I hold a Master's degree in Software Engineering with a focus on data and network security from Sharif University of Technology, and a Bachelor's degree in the same field from Iran University of Science and Technology (IUST).
 
