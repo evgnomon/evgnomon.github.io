@@ -1,5 +1,6 @@
 ---
 title: "Why Click When I Can Say?"
+date: 2026-08-18T11:45:00+02:00
 tags: ["usecode"]
 slug: why-click
 aliases:

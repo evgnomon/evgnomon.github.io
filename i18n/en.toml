@@ -1,0 +1,20 @@
+[posts.title]
+other = "Posts"
+
+[posts.date]
+other = "Jan 2, 2006"
+
+[post.created]
+other = "January 2, 2006"
+
+[post.updated]
+other = "Updated January 2, 2006"
+
+[toc]
+other = "Table of Contents"
+
+[search]
+other = "Search"
+
+[notFound]
+other = "Page not found. Back to"

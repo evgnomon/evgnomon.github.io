@@ -3,6 +3,7 @@ title: "ISLAM Sovereign Liberal Autonomy Manifesto"
 date: 2025-10-31T17:40:37+01:00
 categories: License
 tags: ["ISLAM Sovereign Liberal Autonomy Manifesto"]
+aliases: ["/docs/islam/"]
 ---
 
 # ISLAM SOVEREIGN LIBERAL AUTONOMY MANIFESTO

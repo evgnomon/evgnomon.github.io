@@ -1,5 +1,6 @@
 ---
 title: "HGL General License"
+date: 2026-07-12T09:28:00+02:00
 tags: ["usecode"]
 slug: hgl
 aliases:

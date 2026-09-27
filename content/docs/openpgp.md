@@ -1,5 +1,6 @@
 ---
 title: "OpenPGP"
+date: 2026-07-16T19:51:00+02:00
 tags: ["OpenPGP"]
 ---
 ```plaintext

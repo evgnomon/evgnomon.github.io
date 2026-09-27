@@ -1,0 +1,5 @@
+{{ define "main" }}
+{{ with site.Params.subtitle }}<p id="subtitle">{{ . }}</p>{{ end }}
+{{ .Content }}
+{{- partial "posts.html" . -}}
+{{ end }}

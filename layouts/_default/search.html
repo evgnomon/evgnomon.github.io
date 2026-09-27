@@ -1,0 +1,40 @@
+{{ define "main" }}
+<h3>{{ .Title }}</h3>
+<input id="search-input" type="search" placeholder="{{ .Params.placeholder | default (i18n "search") }}" aria-label="{{ i18n "search" }}" autocomplete="off" autofocus>
+<ul id="posts"></ul>
+<script>
+(function () {
+    const input = document.getElementById("search-input");
+    const list = document.getElementById("posts");
+    let index = [];
+    fetch({{ "index.json" | absLangURL }}).then(r => r.json()).then(d => { index = d; run(); });
+    function run() {
+        const q = input.value.trim().toLowerCase();
+        list.replaceChildren();
+        if (!q) return;
+        const terms = q.split(/\s+/);
+        index
+            .map(p => {
+                const title = p.title.toLowerCase(), body = p.content.toLowerCase();
+                if (!terms.every(t => title.includes(t) || body.includes(t))) return null;
+                return { p, score: terms.filter(t => title.includes(t)).length };
+            })
+            .filter(Boolean)
+            .sort((a, b) => b.score - a.score)
+            .slice(0, 30)
+            .forEach(({ p }) => {
+                const li = document.createElement("li");
+                const a = document.createElement("a");
+                a.href = p.permalink;
+                a.textContent = p.title + " ";
+                const small = document.createElement("small");
+                small.textContent = p.date;
+                a.appendChild(small);
+                li.appendChild(a);
+                list.appendChild(li);
+            });
+    }
+    input.addEventListener("input", run);
+})();
+</script>
+{{ end }}

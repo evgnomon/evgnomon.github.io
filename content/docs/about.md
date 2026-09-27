@@ -1,5 +1,6 @@
 ---
 title: "About"
+date: 2026-08-13T06:27:00+02:00
 weight: 20
 # bookFlatSection: false
 # bookToc: true

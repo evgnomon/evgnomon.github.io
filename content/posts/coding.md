@@ -1,5 +1,6 @@
 ---
 title: "Coding"
+date: 2026-05-20T19:19:00+02:00
 tags: ["usecode"]
 aliases:
   - /coding/
@@ -29,6 +30,3 @@ So: Rust by default. Python when the wheels are just there. TypeScript for the b
 - And of course Bash scripts to glue everything together!
 
 Note: Go is dropped from the stack. It is a good language, but its slot — a compiled, easy, concurrent service language — overlaps almost entirely with Rust, and keeping both means writing the same logic twice in two languages, which is the one thing we said we would not do. And do not read the rest of this as a hunt for the one language to end the list. There is no single language because there is no single domain. One language per domain is the rule, and the number of languages we keep is simply the number of domains we actually work in — not one, and not one hundred either.
-
-- [Class](classes/)
-- [Struct](structs/)

@@ -1,0 +1,242 @@
+/* Site customizations layered on top of etch — keeps the submodule untouched. */
+
+@font-face {
+    font-family: "Lora";
+    font-style: normal;
+    font-weight: 400 700;
+    font-display: swap;
+    src: url("/fonts/lora-latin.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Lora";
+    font-style: italic;
+    font-weight: 400 700;
+    font-display: swap;
+    src: url("/fonts/lora-latin-italic.woff2") format("woff2");
+}
+
+/* Gruvbox palette — https://github.com/morhetz/gruvbox */
+:root {
+    --gb-bg: #fbf1c7;
+    --gb-bg1: #ebdbb2;
+    --gb-bg2: #d5c4a1;
+    --gb-bg3: #bdae93;
+    --gb-fg: #3c3836;
+    --gb-fg0: #282828;
+    --gb-fg2: #504945;
+    --gb-muted: #7c6f64;
+    --gb-border: #d5c4a1;
+    --gb-link: #076678;
+    --gb-link-hover: #427b58;
+    --gb-accent: #af3a03;
+    color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --gb-bg: #282828;
+        --gb-bg1: #3c3836;
+        --gb-bg2: #504945;
+        --gb-bg3: #665c54;
+        --gb-fg: #ebdbb2;
+        --gb-fg0: #fbf1c7;
+        --gb-fg2: #d5c4a1;
+        --gb-muted: #a89984;
+        --gb-border: #504945;
+        --gb-link: #83a598;
+        --gb-link-hover: #8ec07c;
+        --gb-accent: #fe8019;
+        color-scheme: dark;
+    }
+}
+
+html {
+    background: var(--gb-bg);
+    scrollbar-color: var(--gb-bg3) var(--gb-bg1);
+}
+
+body {
+    color: var(--gb-fg);
+    background: var(--gb-bg);
+}
+
+header#banner a {
+    color: var(--gb-fg0);
+}
+
+header#banner nav ul li a {
+    color: var(--gb-fg2);
+}
+
+main#content a {
+    color: var(--gb-link);
+}
+
+main#content a:hover,
+main#content ul#posts li a:hover {
+    color: var(--gb-link-hover);
+}
+
+main#content ul#posts li a {
+    color: var(--gb-fg);
+}
+
+main#content h1,
+main#content h2,
+main#content h3,
+main#content h4,
+main#content h5,
+main#content h6 {
+    color: var(--gb-fg0);
+}
+
+main#content p,
+main#content li,
+main#content td {
+    color: var(--gb-fg);
+}
+
+main#content hr {
+    background: var(--gb-border);
+}
+
+main#content ul#posts small,
+main#content header#post-header > div,
+main#content header#post-header div {
+    color: var(--gb-muted);
+}
+
+main#content #toc {
+    border-color: var(--gb-bg3);
+}
+
+main#content #toc h4 {
+    color: var(--gb-fg2);
+}
+
+main#content blockquote {
+    border-left-color: var(--gb-accent);
+}
+
+main#content :not(pre) > code {
+    background: var(--gb-bg1);
+}
+
+main#content pre {
+    border-radius: 2px;
+}
+
+::selection {
+    background: var(--gb-bg2);
+}
+
+footer#footer {
+    color: var(--gb-muted);
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Tahoma, Arial, sans-serif;
+}
+
+html[lang="en"] main#content,
+html[lang="en"] header#banner h2 {
+    font-family: "Lora", Georgia, serif;
+}
+
+/* Wider reading column than etch's 600px, matching the previous 800px layout */
+@media (min-width: 848px) {
+    body {
+        width: 800px;
+    }
+}
+
+/* Images span exactly the article width (etch only caps them, with an overhang) */
+main#content img,
+main#content figure img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 16px 0;
+}
+
+main#content figure {
+    margin: 16px 0;
+}
+
+/* Home subtitle */
+main#content p#subtitle {
+    color: var(--gb-muted);
+    font-style: italic;
+}
+
+/* Tables (etch has none) */
+main#content table {
+    display: block;
+    overflow-x: auto;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 0.92em;
+}
+
+main#content th,
+main#content td {
+    padding: 6px 12px;
+    border: 1px solid var(--gb-border);
+    text-align: start;
+}
+
+main#content th {
+    background: var(--gb-bg1);
+}
+
+/* Post tags and prev/next navigation */
+main#content footer#post-tags {
+    margin: 32px 0 0;
+    font-size: 0.9em;
+}
+
+main#content footer#post-tags a {
+    margin-inline-end: 12px;
+}
+
+main#content nav#post-nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    margin: 32px 0 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--gb-border);
+    font-size: 0.92em;
+}
+
+main#content nav#post-nav .next {
+    margin-inline-start: auto;
+    text-align: end;
+}
+
+/* Search */
+main#content input#search-input {
+    width: 100%;
+    margin: 8px 0 16px;
+    padding: 8px 10px;
+    font: inherit;
+    color: inherit;
+    background: transparent;
+    border: 1px solid var(--gb-bg3);
+    border-radius: 0;
+}
+
+/* Footer social links */
+footer#footer nav.social {
+    margin-bottom: 6px;
+}
+
+footer#footer nav.social a {
+    margin-inline-end: 12px;
+}
+
+footer#footer a {
+    color: inherit;
+}

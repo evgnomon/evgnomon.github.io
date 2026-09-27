@@ -1,0 +1,34 @@
+{{ define "main" }}
+<article>
+    <header id="post-header">
+        <h1>{{ .Title }}</h1>
+        <div>
+        {{- if isset .Params "date" -}}
+            {{ if eq .Lastmod .Date }}
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format (i18n "post.created") }}</time>
+            {{ else }}
+                <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod | time.Format (i18n "post.updated") }}</time>
+            {{ end }}
+        {{- end -}}
+        </div>
+    </header>
+    {{- if .Params.ShowToc }}
+    <div id="toc">
+        <h4>{{ i18n "toc" }}</h4>
+        {{ .TableOfContents }}
+    </div>
+    {{- end }}
+    {{- .Content -}}
+    {{- with .GetTerms "tags" }}
+    <footer id="post-tags">
+        {{ range . }}<a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>{{ end }}
+    </footer>
+    {{- end }}
+</article>
+{{- if and (eq .Section "posts") (or .PrevInSection .NextInSection) }}
+<nav id="post-nav">
+    {{ with .NextInSection }}<a class="prev" href="{{ .Permalink }}">&larr; {{ .Title }}</a>{{ end }}
+    {{ with .PrevInSection }}<a class="next" href="{{ .Permalink }}">{{ .Title }} &rarr;</a>{{ end }}
+</nav>
+{{- end }}
+{{ end }}

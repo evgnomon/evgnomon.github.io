@@ -1,5 +1,6 @@
 ---
 title: "Protocol"
+date: 2026-05-19T18:48:00+02:00
 tags: ["usecode"]
 slug: protocol
 aliases:

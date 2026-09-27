@@ -1,5 +1,6 @@
 ---
 title: "Own the Full Box"
+date: 2026-06-04T12:16:00+02:00
 tags: ["usecode"]
 slug: full-box
 aliases:

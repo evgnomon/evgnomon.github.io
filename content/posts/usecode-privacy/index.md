@@ -1,5 +1,6 @@
 ---
 title: "Privacy and Doomsday"
+date: 2026-05-05T12:45:00+02:00
 tags: ["usecode"]
 slug: privacy
 aliases:

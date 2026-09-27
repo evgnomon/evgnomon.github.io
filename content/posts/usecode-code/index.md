@@ -1,5 +1,6 @@
 ---
 title: "Code is Justice"
+date: 2026-02-24T15:24:00+01:00
 tags: ["usecode"]
 slug: code
 aliases:

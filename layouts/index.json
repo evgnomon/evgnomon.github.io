@@ -1,0 +1,5 @@
+{{- $pages := slice -}}
+{{- range where site.RegularPages "Type" "in" (slice "posts" "docs") -}}
+{{- $pages = $pages | append (dict "title" .Title "permalink" .Permalink "date" (.Date | time.Format (i18n "posts.date")) "content" (.Plain | htmlUnescape)) -}}
+{{- end -}}
+{{- $pages | jsonify -}}

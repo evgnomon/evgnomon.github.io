@@ -1,0 +1,41 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{ $desc := cond .IsHome site.Params.description (.Description | default .Summary | plainify | truncate 160) -}}
+    {{ with $desc -}}
+    <meta name="description" content="{{ . }}">
+    {{ end -}}
+    {{ with site.Params.author.name -}}
+    <meta name="author" content="{{ . }}">
+    {{ end -}}
+    {{ with site.Params.googleSiteVerification -}}
+    <meta name="google-site-verification" content="{{ . }}">
+    {{ end -}}
+    <link rel="icon" href="{{ "evgnomon.svg" | absURL }}" type="image/svg+xml">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | absURL }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | absURL }}">
+    <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | absURL }}">
+    <link rel="manifest" href="{{ "site.webmanifest" | absURL }}">
+    <link rel="preload" href="{{ "fonts/lora-latin.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
+    {{ with .OutputFormats.Get "rss" -}}
+        {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+    {{ end -}}
+
+    {{ $resources := slice -}}
+    {{ $resources = $resources | append (resources.Get "css/main.css") -}}
+    {{ $resources = $resources | append (resources.Get "css/min770px.css") -}}
+    {{ $dark := site.Params.dark | default "auto" -}}
+    {{ if not (eq $dark "off") -}}
+        {{ $resources = $resources | append (resources.Get "css/dark.css" | resources.ExecuteAsTemplate "dark.css" .) -}}
+    {{ end -}}
+    {{ if site.Params.highlight -}}
+        {{ $resources = $resources | append (resources.Get "css/syntax.css") -}}
+    {{ end -}}
+    {{ $resources = $resources | append (resources.Get "css/custom.css") -}}
+
+    {{ $css := $resources | resources.Concat "css/style.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+
+    <link rel="canonical" href="{{ .Permalink }}">
+    <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+</head>

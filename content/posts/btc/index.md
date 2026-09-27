@@ -3,6 +3,7 @@ title: "BTC Transaction Code"
 date: 2025-06-01T23:28:37+01:00
 categories: License
 tags: ["License"]
+aliases: ["/docs/btc/"]
 ---
 _June 2025_
 

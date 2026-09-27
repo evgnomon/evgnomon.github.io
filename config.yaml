@@ -1,9 +1,9 @@
 baseURL: "https://evgnomon.org/"
-title: .Org Academy
+title: Hamed Ghasemzadeh
 
 pagination:
   pagerSize: 10
-theme: PaperMod
+theme: etch
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -15,93 +15,29 @@ minify:
   minifyOutput: true
 
 params:
+  description: "Hamed Ghasemzadeh"
+  subtitle: "Freedom 🦄 is not an option for you unless being your choice."
+  author:
+    name: evgnomon
+    email: hg@evgnomon.org
+  mainSections: [posts]
+  dark: auto # auto, on, off
+  highlight: true
+  googleSiteVerification: "G-DQ3YB70298"
   socialIcons:
-    - name: "github"
+    - name: GitHub
       url: "https://github.com/evgnomon"
-    - name: "email"
+    - name: Email
       url: "mailto:hg@evgnomon.org"
-    - name: rss
-      url: "http://evgnomon.org/posts/index.xml"
-    - name: "x"
+    - name: RSS
+      url: "https://evgnomon.org/posts/index.xml"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/evgnomon/"
+    - name: X
       url: "https://x.com/evgnomon"
-    - name: other
+    - name: Nostr
       url: "https://primal.net/p/npub1tkehxccwdxqhu3gt6fk33ykznd7ad9aa2p58s95lpnx3mznu6kjqk65725"
-  env: production
-  title: .Org Academy
-  description: ".Org Academy"
-  keywords: [Blog, Book]
-  author: evgnomon
-  DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
-  disableThemeToggle: false
-  ShowReadingTime: false
-  ShowShareButtons: false
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
-  ShowWordCount: false
-  ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
-  disableSpecial1stPost: true
-  disableScrollToTop: false
-  comments: false
-  hidemeta: false
-  hideSummary: false
-  showtoc: false
-  tocopen: true
-  ShowLanguageSwitcher: true
 
-  assets:
-    disableFingerprinting: true
-    favicon: "/evgnomon.svg"
-    favicon16x16: "/favicon-16x16.png"
-    favicon32x32: "/favicon-32x32.png"
-    apple_touch_icon: "/apple-touch-icon.png"
-    safari_pinned_tab: "/safari-pinned-tab.svg"
-
-  label:
-    text: ".Org Academy"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
-
-  profileMode:
-    enabled: true
-    title: .Org Academy
-    subtitle: "Freedom 🦄 is not an option for you unless being your choice."
-    imageUrl: "evgnomon.svg"
-    imageWidth: 180
-    imageHeight: 180
-    imageTitle: .Org Academy logo
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Search
-        url: search
-      - name: Tags
-        url: tags
-
-  analytics:
-    google:
-      SiteVerificationTag: "G-DQ3YB70298"
-
-  cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
-
-  editPost:
-    URL: "https://github.com/evgnomon/evgnomon.github.io/edit/main/content"
-    Text: "Edit"
-    appendFilePath: true
-
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
 pygmentsUseClasses: true
 markup:
   highlight:
@@ -129,48 +65,8 @@ languages:
           name: Tags
           url: /tags/
           weight: 20
-        - identifier: hgl
-          name: HGL
-          url: /docs/hgl
-          weight: 31
-        - identifier: btc
-          name: BTC
-          url: /docs/btc
-          weight: 32
-        - identifier: islam
-          name: ISLAM
-          url: /docs/islam
-          weight: 33
-        - identifier: openpgp-page
-          name: OpenPGP
-          url: /docs/openpgp
-          weight: 34
-        - identifier: about-page
-          name: About
-          url: /docs/about
-          weight: 40
-        - identifier: usecode-github
-          name: Usecode
-          url: https://github.com/evgnomon/usecode
-          weight: 50
-  fa:
-    title: "مدرسه .ساز"
-    languageName: فارسی
-    languageCode: fa-ir
-    weight: 2
-    params:
-      rtl: true  # Enable RTL for Farsi
-      profileMode:
-        title: "مدرسه .ساز"
-        subtitle: "آزادی 🦄 برای شما یک انتخاب نیست، مگر اینکه انتخاب خودتان باشد."
-    menu:
-      main:
-        - identifier: tags-pages
-          name: برچسب ها
-          url: /tags/
-          weight: 20
         - identifier: search-page
-          name: جستجو
+          name: Search
           url: /search/
           weight: 30
         - identifier: hgl
@@ -180,9 +76,9 @@ languages:
         - identifier: openpgp-page
           name: OpenPGP
           url: /docs/openpgp
-          weight: 32
+          weight: 34
         - identifier: about-page
-          name: درباره
+          name: About
           url: /docs/about
           weight: 40
         - identifier: usecode-github

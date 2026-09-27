@@ -1,5 +1,6 @@
 ---
 title: "BTC and Money"
+date: 2026-02-01T17:55:00+01:00
 tags: ["usecode"]
 slug: btc
 aliases:
