@@ -131,3 +131,5 @@ On another laptop, take the vendor and product from `/sys/class/dmi/id/sys_vendo
 | Suspend | Run several suspend/resume cycles on battery and on charger. |
 | Touchpad | Pointing works; haptic click feedback is uneven. |
 | Fingerprint | Not supported by libfprint. Use a password. |
+| External display | Works. The [LG UltraFine 32U990A](https://www.lg.com/se/monitors/uhd-4k-5k/32u990a-s/buy/) runs over a Thunderbolt 5 cable. |
+| USB-C docking | Works, including the internal USB-C dock. |
