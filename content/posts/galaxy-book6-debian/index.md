@@ -94,22 +94,44 @@ Other firmware options are under `/sys/class/firmware-attributes/samsung-galaxyb
 
 ## 6. Swap Alt and Super
 
-The Fn key cannot be remapped. Swap Alt and Super so Alt sits next to Fn.
+The Fn key cannot be remapped. Swap Alt and Super so Alt sits next to Fn. I do the same on the external keyboard, a Lofree Flow 84 2 in Windows mode, so both keyboards have the same layout.
 
-Do it in udev hwdb, not in xkb. GNOME on Wayland applies `altwin:swap_alt_win` to every keyboard, so external keyboards and docks get swapped too. A hwdb remap changes scancodes for the built-in keyboard only.
+Do it in udev hwdb, not in xkb. GNOME on Wayland applies `altwin:swap_alt_win` to every keyboard, so every external keyboard and dock gets swapped too. A hwdb remap changes scancodes for each matched device only. Other keyboards stay untouched.
+
+### How it works
+
+When an input device appears, udev looks it up in the hwdb by a match string built from the device: its bus, vendor and product IDs, and for the built-in keyboard the DMI data of the laptop. Every `KEYBOARD_KEY_<scancode>=<keycode>` line under a matching entry is written into the kernel's keymap for that device. The kernel then emits the new keycode for that scancode, before libinput, xkb or the desktop see anything. That is why the swap works the same in GNOME, on the console and in the login screen.
 
 Create `/etc/udev/hwdb.d/61-keyboard-builtin-altwin.hwdb`:
 
 ```text
+# Built-in keyboard (AT/i8042), this Samsung model only.
+# 0x38 = Left Alt, 0xdb = Left Super (e0 5b) in AT scancode set 1.
 evdev:atkbd:dmi:bvn*:bvr*:bd*:svnSamsung:pnGalaxyBook6Pro-PAMB:*
  KEYBOARD_KEY_38=leftmeta
  KEYBOARD_KEY_db=leftalt
+
+# Lofree Flow 84 2 over USB (388d:0002, shows up as "Flow2@Lofree").
+# 0x700e2 = Left Alt, 0x700e3 = Left GUI in the HID keyboard usage page.
+evdev:input:b0003v388Dp0002*
+ KEYBOARD_KEY_700e2=leftmeta
+ KEYBOARD_KEY_700e3=leftalt
 ```
 
-- `atkbd` matches only the internal i8042 keyboard, and only on this Samsung model.
+Built-in keyboard:
+
+- `atkbd` matches only the internal i8042 keyboard, and the `svn`/`pn` fields limit it to this Samsung model.
 - `0x38` is Left Alt, which now sends Super.
 - `0xdb` is Left Super (`e0 5b`), which now sends Alt.
 - Right Alt is unchanged.
+
+Lofree Flow 84 2:
+
+- Put the keyboard in Windows mode. Its Command key then sends Left GUI.
+- `b0003` is the USB bus, `v388D` the vendor ID and `p0002` the product ID. Only this keyboard matches.
+- USB keyboards report HID usages, not AT scancodes. `0x700e2` is Left Alt and `0x700e3` is Left GUI (page `0x07`, usage `0xe2`/`0xe3`).
+- After the swap, the key next to Fn sends Alt and the Alt key sends Super, the same as on the built-in keyboard.
+- Over Bluetooth the bus is `b0005` and the IDs may differ. Add a second entry with the values from `udevadm info` (see below).
 
 Apply it without a reboot:
 
@@ -118,7 +140,13 @@ sudo systemd-hwdb update
 sudo udevadm trigger --subsystem-match=input --action=change
 ```
 
-On another laptop, take the vendor and product from `/sys/class/dmi/id/sys_vendor` and `/sys/class/dmi/id/product_name`, remove the spaces, and put them in the `svn` and `pn` fields. If the keys do not swap, check the scancodes with `sudo evtest` or `sudo showkey -s`.
+Check that the entries were applied:
+
+```bash
+udevadm info /dev/input/by-id/*Lofree*-event-kbd | grep KEYBOARD_KEY
+```
+
+For another laptop, take the vendor and product from `/sys/class/dmi/id/sys_vendor` and `/sys/class/dmi/id/product_name`, remove the spaces, and put them in the `svn` and `pn` fields. For another USB keyboard, take the IDs from `lsusb` and write them in uppercase hex with four digits. If the keys do not swap, check the scancodes with `sudo evtest`: the `MSC_SCAN` value is what goes after `KEYBOARD_KEY_`.
 
 **Fn + F12** toggles Fn Lock. It resets on reboot.
 
@@ -133,3 +161,4 @@ On another laptop, take the vendor and product from `/sys/class/dmi/id/sys_vendo
 | Fingerprint | Not supported by libfprint. Use a password. |
 | External display | Works. The [LG UltraFine 32U990A](https://www.lg.com/se/monitors/uhd-4k-5k/32u990a-s/buy/) runs over a Thunderbolt 5 cable. |
 | USB-C docking | Works, including the internal USB-C dock. |
+| External keyboard | Works. The Lofree Flow 84 2 runs in Windows mode, with Left Alt and Command swapped in udev (step 6). |
