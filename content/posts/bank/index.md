@@ -4,6 +4,7 @@ date: 2025-05-20T13:31:28+02:00
 categories: ["Bank"]
 tags: ["Civilization", "Banking", "Non-Banking", "Z"]
 ---
+![Banking, Non-Banking and HGL/Z](bank.webp)
 
 > And those who have responded at their own sovereign and established invocation of the same binding front and whose affair is consultation among themselves, and from what we have provided them, they distribute wealth.
 
