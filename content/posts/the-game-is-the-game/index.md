@@ -5,6 +5,8 @@ draft: false
 tags: ["power", "leadership", "politics", "philosophy"]
 ---
 
+![Many hands holding up an empty chair](hands.webp)
+
 There are two ways to begin a story about power. In the first, a single person is handed full power for life, and no one can take it from him; only he can choose to return it to the people. In the second, a single person also sits on top, but with zero power, because the power has been taken from him, and he must work to win it back. The first looks like a tale of restraint, the second like a tale of ambition. Yet they are the glass half full and the glass half empty: two descriptions of the same reality, seen from opposite ends.
 
 That reality is that power never truly belongs to the person who holds it. It rests on the people who go along with it. Étienne de La Boétie saw this from the side of the powerful when he argued that a tyrant falls the moment people simply stop obeying. Derek Sivers saw it from the side of the powerless: a leader rises the moment people start following. Hannah Arendt joined the two, holding that power exists only while people act together and lasts only as long as they stay together.
