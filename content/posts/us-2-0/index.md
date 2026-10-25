@@ -3,6 +3,7 @@ title: "US 2.0"
 date: 2026-10-05
 tags: ["iran", "us", "law", "vpn", "god"]
 ---
+![US 2.0](us-2-0.jpeg)
 
 A VPN is a tunnel. Anyone can rent a server, install a tool and have one in ten minutes. You cannot define it in law without banning half of the internet, so a ban on VPNs is never a ban on tunnels. It is a ban on tunnels that do not belong to the state. Millions of Iranians use them every day. When a law is broken by everyone and enforced on one, it is not law. It is a choice of whom to punish. Having no law is better than that.
 
