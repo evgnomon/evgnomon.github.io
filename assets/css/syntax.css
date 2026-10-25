@@ -1,8 +1,8 @@
-/* Gruvbox syntax highlighting: light by default, dark under prefers-color-scheme. */
+/* Gruvbox (hard) syntax highlighting: light by default, dark under prefers-color-scheme. */
 /* Generated using: hugo gen chromastyles --style=gruvbox-light / --style=gruvbox */
 
-/* Background */ .bg { color:#3c3836;background-color:#fbf1c7; }
-/* PreWrapper */ .chroma { color:#3c3836;background-color:#fbf1c7;-webkit-text-size-adjust:none; }
+/* Background */ .bg { color:#3c3836;background-color:#f9f5d7; }
+/* PreWrapper */ .chroma { color:#3c3836;background-color:#f9f5d7;-webkit-text-size-adjust:none; }
 /* LineLink */ .chroma .lnlinks { outline:none;text-decoration:none;color:inherit }
 /* LineTableTD */ .chroma .lntd { vertical-align:top;padding:0;margin:0;border:0; }
 /* LineTable */ .chroma .lntable { border-spacing:0;padding:0;margin:0;border:0; }
@@ -70,8 +70,8 @@
 /* GenericSubheading */ .chroma .gu { color:#79740e;font-weight:bold }
 /* GenericTraceback */ .chroma .gt { background-color:#3c3836;font-weight:bold }
 @media (prefers-color-scheme: dark) {
-    /* Background */ .bg { color:#ebdbb2;background-color:#282828; }
-    /* PreWrapper */ .chroma { color:#ebdbb2;background-color:#282828;-webkit-text-size-adjust:none; }
+    /* Background */ .bg { color:#ebdbb2;background-color:#1d2021; }
+    /* PreWrapper */ .chroma { color:#ebdbb2;background-color:#1d2021;-webkit-text-size-adjust:none; }
     /* LineLink */ .chroma .lnlinks { outline:none;text-decoration:none;color:inherit }
     /* LineTableTD */ .chroma .lntd { vertical-align:top;padding:0;margin:0;border:0; }
     /* LineTable */ .chroma .lntable { border-spacing:0;padding:0;margin:0;border:0; }
