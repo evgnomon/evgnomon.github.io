@@ -24,7 +24,7 @@ We have put HGL as the first principle because ideally we should not need anythi
 
 ## The Exchange
 
-I build HGL code and receive BTC in exchange. This protects my time to build more HGL code. But it would be a waste of BTC to build the same thing in HGL more than once. So when I spend BTC, I build HGL/z code — code that extends what already exists rather than duplicating it.
+I build HGL code and receive BTC in exchange. This protects my time to build more HGL code. But it would be a waste of BTC to build the same thing in HGL more than once. So when I spend BTC, I build [HGL/z](/posts/hglz/) code — code that extends what already exists rather than duplicating it.
 
 If you want to build HGL/z code and I want to pay for HGL/z code, we are aligned. And if you do not want HGL/z, I can still receive BTC to recover my time and develop HGL/z later. Those who spend their BTC on anything other than HGL/z are free to do so. I do not care — all their BTC flows to counterparties who are surrounded by HGL/z code.
 
