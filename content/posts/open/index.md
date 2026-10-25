@@ -3,6 +3,9 @@ title: "Open or Not"
 date: 2026-09-27T10:00:00+02:00
 categories: ["License"]
 ---
+
+![Three boxes: a sealed HGL box, a chained and padlocked open source box, and an open box spilling parts](boxes.webp)
+
 A downloadable product reaches the user as code. A SaaS reaches the user as a result over the network, and the code never leaves the provider.
 
 [HGL](https://evgnomon.org/docs/hgl/) acts on distribution. Everyone is free to copy and modify. Once you distribute, the whole source must be available to every user for free, under HGL, with no additional restriction. For a downloadable product, that covers every copy. No fork can close what it has to hand over.
