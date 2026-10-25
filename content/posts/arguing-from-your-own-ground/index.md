@@ -4,6 +4,7 @@ date: 2026-10-12
 author: "Hamed Ghasemzadeh"
 description: "You cannot argue for anyone else unless based on your own strength and weakness."
 ---
+![A cylinder casting a rectangular shadow on one wall and a circular shadow on the other](own-ground.webp)
 
 *You cannot argue for anyone else unless based on your own strength and weakness.*
 
