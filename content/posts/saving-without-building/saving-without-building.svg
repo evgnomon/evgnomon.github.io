@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Saving without building</title>
+  <desc id="desc">A graphite pencil sketch of a small house beside a coin, on warm textured paper.</desc>
+  <defs>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#77736d" stop-opacity=".2"/>
+      <stop offset=".58" stop-color="#8f8980" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#f4efe4" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="paper">
+      <feTurbulence type="fractalNoise" baseFrequency=".7" numOctaves="3" seed="12"/>
+      <feColorMatrix values="0 0 0 0 .58 0 0 0 0 .55 0 0 0 0 .48 0 0 0 .12 0"/>
+    </filter>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="13"/>
+    </filter>
+    <pattern id="hatch" width="9" height="9" patternTransform="rotate(35)" patternUnits="userSpaceOnUse">
+      <path d="M0 0V9" stroke="#514e49" stroke-opacity=".38" stroke-width="1"/>
+    </pattern>
+    <pattern id="crosshatch" width="8" height="8" patternTransform="rotate(35)" patternUnits="userSpaceOnUse">
+      <path d="M0 0V8" stroke="#514e49" stroke-opacity=".45" stroke-width="1"/>
+      <path d="M4 0V8" transform="rotate(90 4 4)" stroke="#514e49" stroke-opacity=".3" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <path fill="#f4efe4" d="M0 0h1200v630H0z"/>
+  <ellipse cx="600" cy="320" rx="480" ry="260" fill="url(#halo)" filter="url(#soft)"/>
+  <path fill="#77736d" opacity=".13" filter="url(#paper)" d="M0 0h1200v630H0z"/>
+  <g fill="none" stroke="#393936" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke-width="4" opacity=".84">
+      <path d="m207 354 151-128 158 130"/>
+      <path d="m217 358 142-120 147 122"/>
+      <path d="M242 344v177h238V349"/>
+      <path d="m250 346 108-91 124 98"/>
+      <path d="M266 520h197"/>
+      <path d="M300 520V399q55-55 111 0v121"/>
+      <path d="M324 520v-92q32-32 64 0v92"/>
+      <path d="M387 346v-55h43v89"/>
+      <path d="M275 362v-18m10 11v-18m10 10v-17m10 8v-16m10 8v-16m10 8v-16m10 8v-15m10 7v-14"/>
+    </g>
+    <path d="M246 357 358 263l116 97M254 367v145m220-140v146M292 518v-119q63-61 126 0v119" stroke-width="2.2" opacity=".64"/>
+    <path d="M271 382h20m-20 8h20m-20 8h20m146-32h25m-25 8h25m-25 8h25m-25 8h25m-25 8h25" stroke-width="1.4" opacity=".55"/>
+    <path d="M282 493h13m-13 7h13m-13 7h13m133-12h14m-14 7h14m-14 7h14" stroke-width="1.2" opacity=".5"/>
+  </g>
+  <path d="m248 356 110-93 120 96v157H248z" fill="url(#hatch)" opacity=".34"/>
+  <path d="M300 520V398q57-58 113 0v122z" fill="url(#crosshatch)" opacity=".3"/>
+  <g fill="none" stroke="#393936" stroke-linecap="round">
+    <path d="M719 335c0-94 72-170 161-170s161 76 161 170-72 170-161 170-161-76-161-170Z" stroke-width="6" opacity=".85"/>
+    <path d="M730 336c0-87 67-158 150-158s150 71 150 158-67 158-150 158-150-71-150-158Z" stroke-width="2.5" opacity=".72"/>
+    <path d="M747 336c0-76 59-138 133-138s133 62 133 138-59 138-133 138-133-62-133-138Z" stroke-width="1.5" opacity=".55"/>
+    <path d="M865 246v180m-44-142h64q32 0 32 28t-34 28h-62m0 0h70q35 0 35 31t-36 31h-69" stroke-width="9" opacity=".8"/>
+    <path d="M873 240v190m-50-151h62q36 0 36 33t-38 34h-61m0 0h67q40 0 40 36t-41 36h-66" stroke-width="2.5" opacity=".7"/>
+  </g>
+  <circle cx="880" cy="335" r="151" fill="url(#hatch)" opacity=".08"/>
+  <g fill="none" stroke="#4a4741" stroke-linecap="round" opacity=".56">
+    <path d="M521 366c45-23 89-34 135-34m-128 44c43-18 83-27 122-28"/>
+    <path d="m636 331 21 1-13-17m-114 64 18-3-10-14"/>
+    <path d="M542 306q18-10 38-15m-25 114q22-8 43-9m-17-124q17-7 32-9m-53 169q17-5 34-6"/>
+  </g>
+  <g fill="none" stroke="#6b655c" stroke-width="1" opacity=".35">
+    <path d="m226 544 68-15m-35 22 96-20m-45 26 74-15m254 8 61-12m43 16 32-7"/>
+    <path d="m770 526 65-13m79 18 98-20m-36 25 65-14"/>
+  </g>
+</svg>
