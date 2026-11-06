@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <radialGradient id="halo" cx="50%" cy="55%" r="55%">
+      <stop offset="0" stop-color="#8a8378" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#f4eee1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="7" stroke="#4a4640" stroke-width="1"/>
+    </pattern>
+    <pattern id="hatch2" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)">
+      <line x1="0" y1="0" x2="0" y2="5" stroke="#4a4640" stroke-width="0.9"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="450" fill="#f4eee1"/>
+  <rect width="800" height="450" fill="url(#halo)"/>
+  <g fill="none" stroke="#3b3733" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+    <!-- ground -->
+    <path d="M60 370 C250 366 450 374 740 369"/>
+    <path d="M90 380 C250 377 420 383 700 379" stroke-width="1" opacity="0.5"/>
+    <!-- house -->
+    <path d="M90 370 V250 H230 V370"/>
+    <path d="M75 255 L160 175 L245 255 Z"/>
+    <path d="M75 255 L160 175 L245 255 Z" fill="url(#hatch)" opacity="0.5" stroke="none"/>
+    <rect x="140" y="300" width="40" height="70"/>
+    <rect x="102" y="270" width="26" height="26"/>
+    <rect x="192" y="270" width="26" height="26"/>
+    <!-- office tower -->
+    <path d="M270 370 V140 H370 V370"/>
+    <path d="M370 140 L395 155 V370 L370 370" fill="url(#hatch2)" opacity="0.6"/>
+    <g stroke-width="1.2">
+      <path d="M285 165 h70 M285 195 h70 M285 225 h70 M285 255 h70 M285 285 h70 M285 315 h70"/>
+      <path d="M305 150 v200 M330 150 v200" opacity="0.6"/>
+    </g>
+    <!-- coin -->
+    <ellipse cx="590" cy="215" rx="110" ry="110" stroke-width="2.5"/>
+    <ellipse cx="590" cy="215" rx="92" ry="92" stroke-width="1.4"/>
+    <path d="M500 250 A110 110 0 0 0 680 300 A110 110 0 0 1 500 250 Z" fill="url(#hatch)" opacity="0.45" stroke="none"/>
+    <g stroke-width="5">
+      <path d="M565 160 V270 M565 160 H603 C632 160 632 212 603 212 H565 M565 212 H610 C645 212 645 270 610 270 H565"/>
+      <path d="M580 148 V160 M600 148 V160 M580 270 V282 M600 270 V282" stroke-width="3.5"/>
+    </g>
+    <!-- coin base shadow -->
+    <path d="M510 335 C560 352 630 352 680 335" stroke-width="1.2" opacity="0.6"/>
+  </g>
+</svg>
