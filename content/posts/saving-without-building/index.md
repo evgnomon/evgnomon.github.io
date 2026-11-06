@@ -1,11 +1,10 @@
 ---
 title: "Saving Without Building: Why Bitcoin Is a Different Kind of Savings Asset"
 date: 2026-11-06
-draft: true
+draft: false
 author: "Hamed Ghasemzadeh"
 description: "From a simple question — can Bitcoin rise while people leave it? — to a thesis about savings, malinvestment and persistent demand."
 tags: ["bitcoin", "economics", "savings", "money"]
-categories: ["Essays"]
 ---
 ![A pile of buildings and a single coin resting beside them, one built to hold value and one made only to save it](saving.svg)
 
