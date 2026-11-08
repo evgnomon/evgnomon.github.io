@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Two Clocks Over Hormuz</title>
+  <desc id="desc">Graphite drawing of two clocks hanging over a narrow strait between two coastlines, with a lone tanker passing below, on textured warm paper.</desc>
+  <defs>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#77736c" stop-opacity=".28"/>
+      <stop offset=".58" stop-color="#8f8a80" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#f4f0e7" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="paper-grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency=".7" numOctaves="3" seed="27"/>
+      <feColorMatrix values="0 0 0 0 .45  0 0 0 0 .42  0 0 0 0 .35  0 0 0 .12 0"/>
+    </filter>
+    <filter id="smudge" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <pattern id="hatch" width="9" height="9" patternTransform="rotate(32)" patternUnits="userSpaceOnUse">
+      <path d="M0 0V9" stroke="#595750" stroke-opacity=".3" stroke-width="1"/>
+    </pattern>
+    <pattern id="cross" width="8" height="8" patternTransform="rotate(-28)" patternUnits="userSpaceOnUse">
+      <path d="M0 0V8M0 0H8" stroke="#595750" stroke-opacity=".26" stroke-width="1"/>
+    </pattern>
+    <pattern id="water" width="14" height="6" patternUnits="userSpaceOnUse">
+      <path d="M0 3H14" stroke="#595750" stroke-opacity=".16" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="675" fill="#f3efe6"/>
+  <ellipse cx="600" cy="340" rx="500" ry="275" fill="url(#halo)"/>
+  <rect width="1200" height="675" filter="url(#paper-grain)" opacity=".34"/>
+
+  <g fill="none" stroke="#45443f" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Northern coast, upper left, darker and cross-hatched. -->
+    <path d="M110 395c48-10 92-4 138-16 52-14 88-6 132 6 40 11 70 30 112 38 30 6 52 22 62 44-34 8-70 4-104-2-62-11-120-6-180 2-56 8-104 4-160-6z" fill="url(#cross)" stroke-width="2.4"/>
+    <path d="M136 410c60-6 118-12 176-6m-150 26c66-4 130-6 192 2" stroke-width="1.1" opacity=".45"/>
+    <path d="M300 442c34 6 50 14 64 26 22-4 42-2 60 6" stroke-width="1.6" opacity=".55"/>
+
+    <!-- Southern coast, lower right, lighter hatching. -->
+    <path d="M1090 470c-46 10-92 6-136 18-48 12-84 6-126-2-42-8-68 0-104 14-28 11-56 14-78 30 30 16 76 18 116 14 64-6 124 4 186 10 54 6 102-2 142-16z" fill="url(#hatch)" stroke-width="2.4"/>
+    <path d="M1066 494c-62 6-120 10-178 2m150 30c-66 4-128 2-190-6" stroke-width="1.1" opacity=".42"/>
+
+    <!-- The water between: long horizontal strokes. -->
+    <rect x="120" y="470" width="960" height="120" fill="url(#water)" stroke="none" opacity=".9"/>
+    <path d="M150 560c140-10 290-12 440-6 170 6 330 2 480-12" stroke-width="1.8" opacity=".5"/>
+    <path d="M190 578c160-8 320-6 480-2 130 3 250-2 360-10" stroke-width="1.1" opacity=".38"/>
+    <path d="M420 500c60-4 120-4 180 0m120 14c50-4 96-4 140 0" stroke-width="1" opacity=".4"/>
+
+    <!-- A lone tanker in the channel. -->
+    <path d="M520 512h172l-18 26H538z" fill="#e9e5dc" stroke-width="2.6"/>
+    <path d="M538 538h136" stroke-width="1.2" opacity=".6"/>
+    <path d="M544 512v-12h28v12m84 0v-30h22v30" stroke-width="2.2"/>
+    <path d="M660 482h14m-12 8h10m-10 8h10" stroke-width="1" opacity=".6"/>
+    <path d="M572 506h80" stroke-width="1" opacity=".55"/>
+    <path d="M510 548c30 6 70 6 110 2 46-4 80-2 110 6" stroke-width="1.2" opacity=".45"/>
+    <ellipse cx="600" cy="552" rx="120" ry="10" fill="#77736c" stroke="none" opacity=".18" filter="url(#smudge)"/>
+  </g>
+
+  <!-- Two hanging clocks: a quick one (economic) and a slow one (existential). -->
+  <g fill="none" stroke="#45443f" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M410 0v126" stroke-width="1.6"/>
+    <path d="M790 0v96" stroke-width="1.6"/>
+
+    <!-- Left clock: smaller, hands near midnight. -->
+    <ellipse cx="410" cy="230" rx="104" ry="104" fill="#f1ede4" stroke-width="3"/>
+    <ellipse cx="410" cy="230" rx="92" ry="92" stroke-width="1.4" opacity=".6"/>
+    <path d="M410 126v12" stroke-width="2.6"/>
+    <path d="M410 144v12m0 148v12M324 230h12m148 0h12" stroke-width="2.4"/>
+    <path d="M453 156l-5 9m40 34-9 5m9 52-9-5m-31 51-5-9m-77 9 5-9m-40-34 9-5m-9-52 9 5m31-51 5 9" stroke-width="1.5" opacity=".75"/>
+    <path d="M410 230l-8-70" stroke-width="3.4"/>
+    <path d="M410 230l22-52" stroke-width="2.4"/>
+    <circle cx="410" cy="230" r="5" fill="#45443f"/>
+    <path d="M330 286c22 30 52 44 84 46m-90-60c10 22 22 36 38 46" fill="url(#hatch)" stroke-width="1" opacity=".55"/>
+
+    <!-- Right clock: larger, slower, hands spread wide. -->
+    <ellipse cx="790" cy="230" rx="134" ry="134" fill="#f1ede4" stroke-width="3.2"/>
+    <ellipse cx="790" cy="230" rx="120" ry="120" stroke-width="1.4" opacity=".6"/>
+    <path d="M790 96v14" stroke-width="2.6"/>
+    <path d="M790 118v14m0 196v14M678 230h14m196 0h14" stroke-width="2.4"/>
+    <path d="M846 133l-6 11m53 45-11 6m11 69-11-6m-41 68-6-11m-106 11 6-11m-53-45 11-6m-11-69 11 6m41-68 6 11" stroke-width="1.5" opacity=".75"/>
+    <path d="M790 230l-70 46" stroke-width="3.6"/>
+    <path d="M790 230l56-78" stroke-width="2.6"/>
+    <circle cx="790" cy="230" r="6" fill="#45443f"/>
+    <path d="M880 320c-26 26-62 40-98 40m112-58c-14 22-30 38-50 50" stroke-width="1" opacity=".5"/>
+    <path d="M668 196a124 124 0 0 0 20 104" fill="none" stroke="url(#cross)" stroke-width="18" opacity=".7"/>
+  </g>
+
+  <!-- Soft graphite dust beneath the clocks. -->
+  <ellipse cx="600" cy="390" rx="300" ry="22" fill="#77736c" opacity=".12" filter="url(#smudge)"/>
+</svg>
