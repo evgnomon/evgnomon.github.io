@@ -144,7 +144,6 @@ The strait will most likely reopen. The real questions are when, at what price, 
 - Opinio Juris, [The Closure of the Strait of Hormuz by Iran](https://opiniojuris.org/2026/05/06/the-closure-of-the-strait-of-hormuz-by-iran-considerations-over-the-law-of-the-sea-and-law-of-naval-warfare/)
 - International Court of Justice, [Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, Advisory Opinion](https://www.icj-cij.org/case/186) (19 Jul 2024)
 - Amnesty International, [What happened at the protests in Iran](https://www.amnesty.nl/actueel/what-happened-at-the-protests-in-iran)
-- RTÉ, [Rights group says Iran protest death toll nears 6,000](https://www.rte.ie/news/world/2026/0126/1555169-iran-protests-toll)
 - Stimson Center, [Iran's Faustian 2024 Elections: Statistics Tell the Story](https://stimson.org/2024/irans-faustian-2024-elections-statistics-tell-the-story/)
 - Fortune, [Trump admits Iran war hurt Republicans in midterms](https://fortune.com/2026/11/06/trump-admits-iran-war-hurt-republicans-midterms/) (6 Nov 2026)
 - Arab Center Washington DC, [Will Trump's Iran War Cost Him the 2026 Midterms?](https://arabcenterdc.org/resource/americas-affordability-crisis-will-trumps-iran-war-cost-him-the-2026-midterms/)
