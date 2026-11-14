@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Bitcoin and Credit: Two Halves of a Working Monetary System</title>
+  <desc id="desc">Graphite drawing of a heavy Bitcoin coin on the left and an open ledger with a pen on the right, joined by a thread, on textured warm paper.</desc>
+  <defs>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#77736c" stop-opacity=".28"/>
+      <stop offset=".58" stop-color="#8f8a80" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#f4f0e7" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="paper-grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency=".7" numOctaves="3" seed="41"/>
+      <feColorMatrix values="0 0 0 0 .45  0 0 0 0 .42  0 0 0 0 .35  0 0 0 .12 0"/>
+    </filter>
+    <filter id="smudge" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+    <pattern id="hatch" width="9" height="9" patternTransform="rotate(32)" patternUnits="userSpaceOnUse">
+      <path d="M0 0V9" stroke="#595750" stroke-opacity=".3" stroke-width="1"/>
+    </pattern>
+    <pattern id="cross" width="8" height="8" patternTransform="rotate(-28)" patternUnits="userSpaceOnUse">
+      <path d="M0 0V8M0 0H8" stroke="#595750" stroke-opacity=".28" stroke-width="1"/>
+    </pattern>
+    <pattern id="lines" width="12" height="12" patternTransform="rotate(-8)" patternUnits="userSpaceOnUse">
+      <path d="M0 0H12" stroke="#595750" stroke-opacity=".16" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="675" fill="#f3efe6"/>
+  <ellipse cx="600" cy="345" rx="520" ry="280" fill="url(#halo)"/>
+  <rect width="1200" height="675" filter="url(#paper-grain)" opacity=".34"/>
+
+  <!-- Shadows under both objects, smudged. -->
+  <ellipse cx="340" cy="520" rx="190" ry="34" fill="#5b5850" opacity=".22" filter="url(#smudge)"/>
+  <ellipse cx="850" cy="520" rx="250" ry="34" fill="#5b5850" opacity=".2" filter="url(#smudge)"/>
+
+  <g fill="none" stroke="#45443f" stroke-linecap="round" stroke-linejoin="round">
+    <!-- The coin: a thick disc, its edge cross-hatched. -->
+    <path d="M168 330c0 104 77 188 172 188s172-84 172-188" fill="url(#cross)" stroke-width="2.4"/>
+    <path d="M168 330v-22m344 22v-22" stroke-width="2.4"/>
+    <ellipse cx="340" cy="300" rx="172" ry="168" fill="#f1ece2" stroke-width="2.6"/>
+    <ellipse cx="340" cy="300" rx="172" ry="168" fill="url(#hatch)" stroke="none" opacity=".45"/>
+    <ellipse cx="340" cy="300" rx="146" ry="142" stroke-width="1.6" opacity=".7"/>
+    <ellipse cx="340" cy="300" rx="138" ry="134" stroke-width="1" opacity=".4" stroke-dasharray="3 6"/>
+    <!-- Milled edge ticks. -->
+    <path d="M190 370l-10 6m22 22l-9 8m30 18l-6 10m36 10l-3 11m40 2v11m40-6l3 11m36-24l6 10m28-30l9 8m20-34l10 6" stroke-width="1.4" opacity=".55"/>
+    <!-- The B. -->
+    <path d="M300 222v156m0-156h56c30 0 48 16 48 38s-18 38-48 38h-56m0 0h64c32 0 52 18 52 40s-20 40-52 40h-64" stroke-width="5"/>
+    <path d="M322 204v20m30-20v20m-30 154v20m30-20v20" stroke-width="4.4"/>
+    <path d="M308 230c18 6 30 22 30 38m-26 40c22 6 36 22 38 44" stroke-width="1" opacity=".35"/>
+    <!-- Highlight and shading strokes across the face. -->
+    <path d="M226 200c26-30 62-46 100-50" stroke-width="1.2" opacity=".35"/>
+    <path d="M430 400c-30 26-64 40-104 44m134-82c-10 24-24 42-40 56" stroke-width="1.1" opacity=".45"/>
+
+    <!-- The thread joining the coin to the ledger. -->
+    <path d="M512 310c50-40 92 20 130-6 30-20 50-10 74 4" stroke-width="1.8" opacity=".75" stroke-dasharray="1 0"/>
+    <path d="M516 316c48-34 90 22 128-2" stroke-width="1" opacity=".35"/>
+
+    <!-- The open ledger. -->
+    <path d="M630 470c70-18 150-20 220 6 70-26 150-24 220-6V250c-70-18-150-20-220 6-70-26-150-24-220-6z" fill="#f1ece2" stroke-width="2.6"/>
+    <path d="M630 470c70-18 150-20 220 6 70-26 150-24 220-6v14c-70-18-150-20-220 6-70-26-150-24-220-6z" fill="url(#cross)" stroke-width="2"/>
+    <path d="M850 256v220" stroke-width="2" opacity=".8"/>
+    <path d="M640 260c66-14 140-14 204 6v204c-64-20-138-20-204-6z" fill="url(#lines)" stroke="none"/>
+    <path d="M856 266c64-20 138-20 204-6v204c-66-14-140-14-204 6z" fill="url(#lines)" stroke="none"/>
+    <path d="M836 262c6 70 6 140 0 210" stroke-width="6" opacity=".12"/>
+    <!-- Rows of entries on the left page. -->
+    <path d="M660 292c40-6 84-6 124 0m-124 32c34-5 70-5 104 0m-104 32c44-6 88-6 132 2m-132 30c30-4 60-4 90 0m-90 32c40-5 80-5 120 2" stroke-width="1.5" opacity=".6"/>
+    <path d="M800 290v12m-6 22v12m2 20v12m-4 20v12m0 20v12" stroke-width="1.2" opacity=".5"/>
+    <!-- Entries on the right page, the last one balanced with a double line. -->
+    <path d="M880 290c40-6 80-6 118-2m-118 32c30-4 64-4 96 0m-96 32c42-6 82-6 124 0" stroke-width="1.5" opacity=".6"/>
+    <path d="M880 392c40-5 82-5 124 0m-124 8c40-5 82-5 124 0" stroke-width="1.5" opacity=".7"/>
+
+    <!-- A pen resting across the right page. -->
+    <path d="M920 470l170-196 14 12-170 196z" fill="url(#hatch)" stroke-width="2.2"/>
+    <path d="M920 470l14 12-22 10z" fill="#45443f" fill-opacity=".55" stroke-width="1.6"/>
+    <path d="M1090 274l14 12 10-14-12-10z" fill="url(#cross)" stroke-width="2"/>
+    <path d="M1000 380l14 12" stroke-width="1.4" opacity=".6"/>
+  </g>
+</svg>
