@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Genuine AI: Why the Off Switch Is Not Enough</title>
+  <desc id="desc">Graphite drawing of a hand reaching for a plug in a wall socket whose cord runs to a whole city, with a single steady flame burning above, on textured warm paper.</desc>
+  <defs>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#77736c" stop-opacity=".28"/>
+      <stop offset=".58" stop-color="#8f8a80" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#f4f0e7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#f8f5ee" stop-opacity=".95"/>
+      <stop offset=".5" stop-color="#ece7dc" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#f3efe6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="paper-grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency=".7" numOctaves="3" seed="41"/>
+      <feColorMatrix values="0 0 0 0 .45  0 0 0 0 .42  0 0 0 0 .35  0 0 0 .12 0"/>
+    </filter>
+    <filter id="smudge" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <pattern id="hatch" width="9" height="9" patternTransform="rotate(32)" patternUnits="userSpaceOnUse">
+      <path d="M0 0V9" stroke="#595750" stroke-opacity=".3" stroke-width="1"/>
+    </pattern>
+    <pattern id="cross" width="8" height="8" patternTransform="rotate(-28)" patternUnits="userSpaceOnUse">
+      <path d="M0 0V8M0 0H8" stroke="#595750" stroke-opacity=".26" stroke-width="1"/>
+    </pattern>
+    <pattern id="lines" width="12" height="6" patternUnits="userSpaceOnUse">
+      <path d="M0 3H12" stroke="#595750" stroke-opacity=".18" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="675" fill="#f3efe6"/>
+  <ellipse cx="600" cy="350" rx="510" ry="280" fill="url(#halo)"/>
+  <rect width="1200" height="675" filter="url(#paper-grain)" opacity=".34"/>
+
+  <!-- Soft smudges under the ground line and the wall. -->
+  <ellipse cx="760" cy="560" rx="380" ry="26" fill="#6d6a62" opacity=".18" filter="url(#smudge)"/>
+  <ellipse cx="230" cy="420" rx="90" ry="140" fill="#6d6a62" opacity=".12" filter="url(#smudge)"/>
+
+  <g fill="none" stroke="#45443f" stroke-linecap="round" stroke-linejoin="round">
+    <!-- The wall, left: a cross-hatched slab with the socket in it. -->
+    <path d="M120 150l4 410h170l-4-410z" fill="url(#lines)" stroke-width="2"/>
+    <path d="M132 170l2 370m150-372l2 372" stroke-width="1" opacity=".35"/>
+    <rect x="168" y="318" width="84" height="116" rx="10" fill="#ece8df" stroke-width="2.4"/>
+    <rect x="180" y="330" width="60" height="92" rx="7" fill="url(#cross)" stroke-width="1.4"/>
+
+    <!-- The plug, still in, with the hand hesitating over it. -->
+    <path d="M206 352h44c10 0 16 8 16 18v20c0 10-6 18-16 18h-44z" fill="#e9e5dc" stroke-width="2.6"/>
+    <path d="M214 362v36m10-36v36" stroke-width="1" opacity=".5"/>
+    <path d="M266 380h26" stroke-width="3.2"/>
+    <path d="M300 250c-14 22-18 46-10 70 6 18 22 26 40 22l46-10c14-3 18-16 10-26-6-8-18-8-28-4m-22-66c-8-14-26-16-36-6-10 10-8 26-2 40m40-30c-6-14-24-18-34-8m66 22c-4-14-20-20-32-12" stroke-width="2.2"/>
+    <path d="M330 342c-10 30-14 70-10 112" stroke-width="2"/>
+    <path d="M374 332c4 34 4 76-2 122" stroke-width="2"/>
+    <path d="M312 270c8 10 20 16 34 16m-28 22c12 6 26 8 40 4" stroke-width="1" opacity=".45"/>
+    <path d="M330 360c14 4 30 4 44 0m-44 40c14 4 30 4 44 0" stroke-width="1" opacity=".35"/>
+
+    <!-- The cord: from the plug, along the ground, into the city. -->
+    <path d="M292 380c40 0 46 40 40 90-6 50 30 78 90 78 120 0 220-6 330-2 60 2 110 0 150-6" stroke-width="3"/>
+    <path d="M296 386c36 2 40 40 34 86-6 48 30 72 90 74" stroke-width="1" opacity=".4"/>
+
+    <!-- The city on the right, every tower on that one cord. -->
+    <path d="M560 548v-150h56v150m10 0v-210h70v210m10 0v-120h48v120m12 0v-260h64v260m10 0v-170h54v170m12 0v-230h60v230m10 0v-140h50v140" fill="url(#hatch)" stroke-width="2.4"/>
+    <path d="M626 338l35-34 35 34m176-50l32-36 32 36" stroke-width="2"/>
+    <path d="M661 304v-30m243-52v-22" stroke-width="1.6"/>
+    <path d="M572 420h10m14 0h10m-34 30h10m14 0h10m-34 30h10m14 0h10M640 370h10m16 0h10m-36 34h10m16 0h10m-36 34h10m16 0h10m-36 34h10m16 0h10M816 320h10m16 0h10m-36 36h10m16 0h10m-36 36h10m16 0h10m-36 36h10m16 0h10m-36 36h10m16 0h10M962 340h10m16 0h10m-36 36h10m16 0h10m-36 36h10m16 0h10m-36 36h10m16 0h10" stroke-width="2.4" opacity=".55"/>
+    <path d="M540 548h540" stroke-width="2.2"/>
+    <path d="M520 562c160 6 340 8 580-2" stroke-width="1" opacity=".4"/>
+
+    <!-- One steady flame above it all: genuine in itself. -->
+    <circle cx="820" cy="150" r="70" fill="url(#glow)" stroke="none"/>
+    <path d="M820 112c-16 22-24 38-20 54 3 12 12 20 20 20s17-8 20-20c4-16-4-32-20-54z" fill="#f6f3ec" stroke-width="2.4"/>
+    <path d="M820 142c-6 10-8 18-6 24 1 5 4 8 6 8s5-3 6-8c2-6 0-14-6-24z" stroke-width="1.4"/>
+    <path d="M806 192h28l-4 26h-20z" fill="url(#cross)" stroke-width="2"/>
+    <path d="M790 120l-14-10m74 10l14-10m-44-28v-16m-50 70h-16m108 0h16" stroke-width="1.2" opacity=".45"/>
+  </g>
+</svg>
