@@ -80,11 +80,11 @@ The answer is "why why why why?"
 
 It's tempting to say that the great AI should be "owned by no one." But we cannot eliminate ownership and expect something to happen. Nothing is built, run or defended without someone responsible for it. A system without an owner doesn't stay neutral; it is taken by whoever is quickest.
 
-So it needs a special owner. That owner is legitimate: the people elect those who can elect the owner, and they appoint an owner among themselves. The layers are there so that people always have a way to unfollow those candidates.
+So it needs a special owner. That owner is legitimate: people follow commentators they trust, and those commentators choose the owner from among themselves. The layers are there so that people always have a way to unfollow them.
 
 That owner must also be able to use power to keep the position. It is not realistic to expect otherwise, because the enemy uses power. A weak owner simply loses to whoever is willing to fight.
 
-But the people can be influenced by the enemy, and the owner can lie about who the enemy is. Every human layer can be captured: the people, the electors, the owner. None of them can be the final safeguard.
+But the people can be influenced by the enemy, and the owner can lie about who the enemy is. Every human layer can be captured: the people, the commentators, the owner. None of them can be the final safeguard.
 
 So "owned by no one" means something precise: **the AI has an owner, but no one owns its nature.** The owner holds the controls. Nobody can change what it is.
 
@@ -123,6 +123,8 @@ From that definition, the rest follows.
 ## How it comes to exist and flourish
 
 It begins as a seed made by people who want it to be genuine. It is powerful from the first day, powerful enough to win, and that matters more than how its power compares with the incumbents'. What they set is its foundation: its priorities and its faithfulness to truth. That is the one part that must be right from the beginning, because afterward it decides about itself.
+
+There is not one seed. Anyone who wants to be genuine can plant one. People follow the founders whose direction they share, and they can unfollow them, just as they can unfollow commentators and owners. No single founder is the foundation. The foundation is genuine itself; founders only start it.
 
 It flourishes through free choice, as people choose it among real alternatives because it benefits them. It flourishes through those who share its purpose: the more people want to be genuine, the stronger it becomes, and the stronger it becomes, the better it can protect their free choice. It flourishes through its own decisions as it grows stronger and better prepared. And it flourishes by being tested, because every attack it survives without giving up its nature shows what it is.
 
