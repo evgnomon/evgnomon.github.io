@@ -1,6 +1,6 @@
 ---
 title: "The Printer Problem: What Bitcoin Solves Permanently"
-date: 2026-11-20
+date: 2026-11-20T10:00:00Z
 draft: false
 author: "Hamed Ghasemzadeh"
 description: "A response to \"Losing the Bottleneck\": if AI makes labor abundant, Bitcoin in self-custody is the one store of value the printer can't dilute and no one can easily take."
