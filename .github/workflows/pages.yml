@@ -35,7 +35,7 @@ jobs:
     steps:
       - name: Install Hugo CLI
         run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          wget --tries=5 --waitretry=10 --retry-connrefused -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
       - name: Install Dart Sass
         run: sudo snap install dart-sass
@@ -72,6 +72,27 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      # GitHub Pages sometimes answers with a transient 5xx when creating the
+      # deployment. Try up to three times, waiting longer before each retry.
       - name: Deploy to GitHub Pages
-        id: deployment
+        id: deploy1
+        continue-on-error: true
         uses: actions/deploy-pages@v4
+      - name: Wait before retry
+        if: steps.deploy1.outcome == 'failure'
+        run: sleep 60
+      - name: Deploy to GitHub Pages (retry 1)
+        id: deploy2
+        if: steps.deploy1.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+      - name: Wait before last retry
+        if: steps.deploy2.outcome == 'failure'
+        run: sleep 180
+      - name: Deploy to GitHub Pages (retry 2)
+        id: deploy3
+        if: steps.deploy2.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+      - name: Set page URL
+        id: deployment
+        run: echo "page_url=${{ steps.deploy1.outputs.page_url || steps.deploy2.outputs.page_url || steps.deploy3.outputs.page_url }}" >> "$GITHUB_OUTPUT"
